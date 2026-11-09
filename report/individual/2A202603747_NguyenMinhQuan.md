@@ -45,7 +45,7 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 | Trường | Nội dung |
 |---|---|
 | Job Story | Khi chuẩn bị cho buổi học, buổi họp hoặc kiểm tra, tôi muốn tìm lại đúng thông báo và tài liệu đã được gửi, để không bỏ sót yêu cầu cần chuẩn bị. |
-| Actor | Sinh viên |
+| Actor | Người học|
 | Thời điểm / bối cảnh | Trước buổi học, họp nhóm hoặc kiểm tra của một môn học |
 | Quy trình hiện tại (3–7 bước) | Mở nhóm chat → tìm lại thông báo bằng từ khóa hoặc cuộn tin nhắn → xác định tài liệu đính kèm phù hợp → mở và đọc phần cần thiết → ghi lại yêu cầu cần chuẩn bị |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Tìm và mở đúng tài liệu; mất khoảng 3–5 phút vì có tài liệu ngắn lẫn tài liệu dài. |

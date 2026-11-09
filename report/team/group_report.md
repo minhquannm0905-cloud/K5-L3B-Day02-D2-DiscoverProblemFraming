@@ -5,9 +5,9 @@
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm:
+- Tên nhóm: D2
 - Thành viên: xem `TEAM.md`
-- Candidate problem được chọn (1 câu):
+- Candidate problem được chọn (1 câu): Người học mất thời gian tìm lại đúng thông báo và tài liệu trước buổi học, họp hoặc kiểm tra vì nội dung bị phân tán trong nhóm chat và nhiều file đính kèm.
 - Quyết định cuối: Go / Not Yet / No-Go
 
 ---
@@ -18,57 +18,66 @@
 
 | # | Người đưa ra | Candidate (Job Story ngắn) | Actor | Bottleneck | Câu hỏi phản biện nhận được (ai hỏi) |
 |---:|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
-| 7 | | | | | |
-| 8 | | | | | |
-| 9 | | | | | |
-| 10 | | | | | |
-| 11 | | | | | |
-| 12 | | | | | |
+| 1 | Nguyễn Như Duy An | Khi khách gửi yêu cầu bảo hành kèm mô tả/ảnh, cần trích seri, phân loại lỗi sơ bộ và gán người xử lý để hẹn khách trong 15 phút. | Điều phối viên dịch vụ | Diễn giải mô tả không chuyên môn thành nhóm lỗi: 4 phút/ca | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
+| 2 | Nguyễn Như Duy An | Khi nhận hồ sơ hoàn ứng gồm ảnh hóa đơn/vé xe, cần đối soát ngày, mã số thuế và số tiền để duyệt trong ngày. | Kế toán thanh toán nội bộ | So khớp hóa đơn với bảng kê: 10 phút/bộ | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
+| 3 | Nguyễn Như Duy An | Khi nhận file COD cuối ngày, cần đối chiếu mã vận đơn và tiền thực nhận để phát hiện đơn lệch cước/chưa thanh toán. | Kế toán đối soát công nợ | Rà nguyên nhân từng dòng lệch: 45 phút/ngày | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
+| 4 | Mai Xuân Khang | Khi kết thúc buổi học, cần tổng hợp ý chính từ bài giảng/slide để ôn lại mà không đọc hoặc nghe lại toàn bộ. | Người học | Chọn và viết lại ý chính: khoảng 15 phút | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
+| 5 | Mai Xuân Khang | Khi ôn thi từ nhiều nguồn, cần xác định kiến thức trọng tâm và nội dung thiếu để ưu tiên ôn hiệu quả. | Người học | Đối chiếu kiến thức giữa nhiều nguồn: khoảng 20 phút | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
+| 6 | Mai Xuân Khang | Khi làm bài tập nhóm nhiều thành viên, cần theo dõi nhiệm vụ, tiến độ và thay đổi để tránh sót việc/trễ hạn. | Thành viên nhóm học tập | Đối chiếu thông báo, thay đổi và hạn mới nhất: khoảng 12 phút | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
+| 7 | Nguyễn Minh Quân | Khi chuẩn bị học/họp/kiểm tra, cần tìm lại đúng thông báo và tài liệu để không bỏ sót yêu cầu. | Người học | Tìm và mở đúng tài liệu: 3–5 phút/lần | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
+| 8 | Nguyễn Minh Quân | Khi nộp Lab AI thực chiến, cần kiểm tra yêu cầu, tên file và cấu trúc để tránh bị trừ điểm. | Người học làm lab | Đọc và đối chiếu rubric: phần lớn trong 10 phút/lab | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
+| 9 | Nguyễn Minh Quân | Khi nhận lịch kiểm tra/deadline từ email và Zalo, cần tổng hợp ở một nơi để không quên hạn hoặc nhầm lịch thi. | Người học theo nhiều học phần | Tìm thông báo có lịch/deadline: phần lớn trong 10–15 phút/lần | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
 
 ### 2.2. Cluster
 
 | Cluster | Các candidate | Pattern chung |
 |---|---|---|
-| A | | |
-| B | | |
-| C | | |
+| A — Đối soát vận hành/tài chính | #2 Hoàn ứng; #3 COD | Đối chiếu dữ liệu, phát hiện sai lệch và giảm xử lý thủ công. |
+| B — Tiếp nhận yêu cầu dịch vụ | #1 Bảo hành | Chuẩn hóa thông tin đầu vào mơ hồ trước khi chuyển cho người xử lý. |
+| C — Quản lý thông tin học tập | #4–#5 Tổng hợp/ôn tập; #7–#9 Thông báo, lab, lịch | Thông tin rải rác làm người học mất thời gian tìm, đọc, đối chiếu và theo dõi. |
+| D — Phối hợp nhóm | #6 Theo dõi tiến độ nhóm | Thay đổi phân tán khiến thành viên hỏi lại, sót việc hoặc trễ hạn. |
 
 ### 2.3. Opportunity Solution Tree rút gọn
 
 Gốc là **1 outcome**. Nhánh là **opportunity** (nhu cầu, pain), không phải tính năng hay công cụ.
 
 ```text
-OUTCOME: 
-├── Opportunity A: 
-├── Opportunity B: 
-└── Opportunity C: 
+OUTCOME: Giảm thời gian và sai sót khi xử lý thông tin rải rác trong các quy trình lặp lại
+├── Opportunity A: Dữ liệu vận hành/tài chính nằm ở nhiều file, cần đối soát để tìm sai lệch
+├── Opportunity B: Thông tin đầu vào của khách không chuẩn hóa, dẫn đến phân loại hoặc phân công sai
+├── Opportunity C: Thông báo, tài liệu và rubric học tập nằm ở nhiều nơi, dễ bị bỏ sót
+└── Opportunity D: Nhiệm vụ và thay đổi trong nhóm không được cập nhật ở một nơi
 ```
 
 Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 
--
+- "AI tự chẩn đoán linh kiện hỏng".
+- "Chatbot tóm tắt mọi tài liệu học tập".
+- "Agent tự gửi email khiếu nại cho đơn vị giao vận".
+- "Một app quản lý toàn bộ deadline".
 
 ### 2.4. Chấm điểm shortlist (1–5)
 
 | Candidate | Actor rõ | Quy trình rõ | Pain có bằng chứng | Impact đo được | Vừa sức lab | So sánh được No AI/Rule/Workflow/Agent | Nhóm hiểu domain | Tổng |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
+| Đối soát tiền thu hộ COD (#3) | 5 | 5 | 5 | 5 | 5 | 5 | 3 | **33** |
+| Tiếp nhận và phân loại bảo hành (#1) | 5 | 5 | 5 | 5 | 5 | 5 | 3 | **33** |
+| Tìm lại thông báo và tài liệu môn học (#7) | 5 | 5 | 4 | 3 | 5 | 5 | 5 | **32** |
 
-**Candidate được chọn:**
+> Các điểm trên tổng hợp từ báo cáo cá nhân; nhóm đã chốt candidate #7 sau pitch. Nhóm vẫn cần ghi lại câu hỏi phản biện thật của từng thành viên vào bảng pitch.
 
-**Vì sao chọn:**
+**Candidate được chọn:** Tìm lại thông báo và tài liệu trước buổi học, họp hoặc kiểm tra (#7 — Nguyễn Minh Quân).
+
+**Vì sao chọn:** Actor và quy trình rõ; nhóm hiểu domain người học và có thể kiểm chứng nhanh với người học thật mà không cần truy cập dữ liệu tài chính, bảo hành hoặc khách hàng nội bộ. Bottleneck có phạm vi nhỏ (tìm và mở đúng tài liệu), thời gian baseline đã có (3–5 phút/lần), đồng thời nhóm so sánh được các mức No AI / Rule / Workflow trước khi kết luận có cần AI hay không.
 
 **Vì sao loại các candidate còn lại:**
 
-**Xử lý bất đồng (nếu có):**
+- Đối soát COD và hoàn ứng có impact tài chính rõ nhưng cần file vận hành thật, quyền truy cập và xác minh từ kế toán; nhóm khó kiểm chứng an toàn trong thời gian lab.
+- Tiếp nhận bảo hành có rủi ro phân công/kỹ thuật sai và cần dữ liệu khách hàng, ảnh thiết bị; nhóm chưa đủ domain để đánh giá đầu ra.
+- Các candidate tổng hợp/ôn tập của Mai Xuân Khang hiện dùng mốc "ước tính minh họa", chưa đủ bằng chứng hành vi thật để ưu tiên.
+- Kiểm tra yêu cầu nộp Lab và tổng hợp deadline có scope gần với candidate được chọn, nhưng pain "tìm đúng thông báo/tài liệu" xảy ra ngay trước nhiều loại hoạt động hơn và có thể là nguyên nhân gốc.
+
+**Xử lý bất đồng (nếu có):** Nhóm ưu tiên candidate dễ kiểm chứng với người học thật và ít rủi ro dữ liệu hơn các candidate vận hành. Các candidate COD/bảo hành được giữ ở hướng tiếp theo.
 
 ---
 
