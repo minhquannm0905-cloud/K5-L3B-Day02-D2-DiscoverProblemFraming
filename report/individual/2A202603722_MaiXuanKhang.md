@@ -14,9 +14,7 @@
 
 Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng hợp nhiều thông tin** · **Pain từ người khác**.
 
-Các khoảng thời gian trong bảng là **mốc tham chiếu** để phân tích. Bảng chưa ghi số đo thực tế.
-
-| # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng) |
+| # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu (thời gian, tần suất, số người, bằng chứng) |
 | --- | --- | --- | --- | --- |
 | 1 | Cần đọc, tổng hợp nhiều thông tin | Khi chuẩn bị ôn thi từ nhiều nguồn tài liệu, tôi muốn xác định nhanh các kiến thức trọng tâm và nội dung còn thiếu, để ôn tập hiệu quả hơn. | Bản thân tôi, sinh viên đang ôn thi từ nhiều nguồn. | 45–70 phút/phiên tổng hợp. Nội dung có thể nằm rải rác trong slide, bài tập, ghi chú và tài liệu tham khảo. |
 | 2 | Lặp lại | Khi kết thúc mỗi buổi học, tôi muốn tổng hợp nội dung quan trọng từ bài giảng và slide, để dễ dàng xem lại kiến thức mà không phải đọc hoặc nghe lại toàn bộ. | Bản thân tôi, sinh viên tổng hợp ghi chú sau buổi học. | 25–40 phút/buổi để xem lại nội dung và viết ý chính. Có thể phải xem lại các phần chưa rõ. |
@@ -28,7 +26,7 @@ Các khoảng thời gian trong bảng là **mốc tham chiếu** để phân t�
 
 ## 3. Top 3 Problem Cards + quy trình nháp (CP2)
 
-Các sơ đồ mô tả quy trình hiện tại theo từng tình huống. **Số phút từng bước, tổng thời gian và baseline là các mốc tham chiếu.** Các mốc này chưa được đo thực tế. Target là mục tiêu đề xuất. Card 1 và Card 3 tính cả quy trình, còn khoảng thời gian tương ứng trong CP1 chỉ nói đến khâu xem lại và tổng hợp hoặc khâu đối chiếu tiến độ.
+Các sơ đồ mô tả quy trình hiện tại theo từng tình huống. Target là mục tiêu đề xuất. Card 1 và Card 3 tính cả quy trình, còn khoảng thời gian tương ứng trong CP1 chỉ nói đến khâu xem lại và tổng hợp hoặc khâu đối chiếu tiến độ.
 
 ### Bảng chọn top 3
 
