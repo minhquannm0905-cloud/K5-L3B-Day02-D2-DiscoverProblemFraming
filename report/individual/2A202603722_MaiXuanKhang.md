@@ -14,7 +14,7 @@
 
 Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng hợp nhiều thông tin** · **Pain từ người khác**.
 
-Năm vấn đề có sự hỗ trợ gợi ý của ChatGPT. Các khoảng thời gian trong bảng là **ước tính minh họa**.
+Các khoảng thời gian trong bảng là **ước tính minh họa**.
 
 | # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng) |
 | --- | --- | --- | --- | --- |
@@ -143,8 +143,6 @@ Khi làm bài tập nhóm, nhiệm vụ, trạng thái và hạn nộp có thể
 | #3 · Bottleneck và chỉ số: chờ phản hồi có thể mất nhiều thời gian hơn đối chiếu thông báo. Xong nhanh vẫn có thể sót việc. | Tách thời gian chờ và kiểm lại người phụ trách, hạn, số việc bị sót. | Thêm cách ghi thời gian chờ và kiểm dữ liệu với lịch sử giao việc. | Đo một lần cập nhật thực tế có thay đổi cần xác nhận. |
 | #3 · No AI và khả năng triển khai: bảng chung chỉ hữu ích khi có người cập nhật đúng lúc. | Gắn trách nhiệm cập nhật với từng thay đổi. | Thêm quy ước cập nhật vào phương án bảng chung. | Xác nhận nhóm có thể duy trì một nguồn theo dõi chung. |
 
-Các điều chỉnh trong bảng do Codex hỗ trợ.
-
 ---
 
 ## 4. Tôi đã tham gia phần nào (CP3 → CP7)
@@ -168,8 +166,8 @@ Các điều chỉnh trong bảng do Codex hỗ trợ.
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | ChatGPT hỗ trợ gợi ý vấn đề. Codex sắp xếp Job Story, actor, lăng kính và ghi rõ các khoảng thời gian minh họa do học viên cung cấp. | [Tự đánh giá sau khi tự scan] | [Tự đánh giá khi đối chiếu trải nghiệm] | [Tự ghi ý giữ, bỏ hoặc viết lại và lý do] |
-| CP2 Problem Card | Codex cập nhật các card và sơ đồ theo quy trình, thời gian và mục tiêu do học viên cung cấp, đồng thời phản biện và đề xuất Card #3 để cân nhắc ở CP2. | [Tự đánh giá sau khi kiểm tra card] | [Tự đánh giá sau khi đối chiếu quy trình và số đo] | [Tự ghi điểm đã sửa sau phản biện] |
+| CP1 Scan | Gợi ý vấn đề, sắp xếp Job Story và phân loại theo lăng kính. Thời gian minh họa do học viên cung cấp. | [Tự đánh giá sau khi tự scan] | [Tự đánh giá khi đối chiếu trải nghiệm] | [Tự ghi ý giữ, bỏ hoặc viết lại và lý do] |
+| CP2 Problem Card | Sắp xếp Problem Card và sơ đồ theo dữ liệu do học viên cung cấp, phản biện các card và đề xuất Card #3. | [Tự đánh giá sau khi kiểm tra card] | [Tự đánh giá sau khi đối chiếu quy trình và số đo] | [Tự ghi điểm đã sửa sau phản biện] |
 | CP4 Research | [Tự cập nhật nếu có dùng] | | | |
 | CP5 Quy trình | [Tự cập nhật nếu có dùng] | | | |
 | CP5–6 Problem Statement | [Tự cập nhật nếu có dùng] | | | |
