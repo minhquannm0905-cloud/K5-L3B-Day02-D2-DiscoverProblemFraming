@@ -8,7 +8,7 @@
 - Tên nhóm: D2
 - Thành viên: xem `TEAM.md`
 - Candidate problem được chọn (1 câu): Người học mất thời gian tìm lại đúng thông báo và tài liệu trước buổi học, họp hoặc kiểm tra vì nội dung bị phân tán trong nhóm chat và nhiều file đính kèm.
-- Quyết định cuối: Go / Not Yet / No-Go
+- Quyết định cuối: - Quyết định cuối: Go, phạm vi nhỏ — pilot Rule trong 2 tuần
 
 ---
 

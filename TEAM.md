@@ -30,7 +30,7 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 | CP5: Quy trình trước/sau | Nguyễn Như Duy An | Mai Xuân Khang | Sơ đồ Mermaid As-Is / To-Be, bảng Before/After |
 | CP5: Problem Statement v0 | Nguyễn Minh Quân | Nguyễn Như Duy An | Bản mô tả bài toán v0 gồm 6 trường |
 | CP6: Mức can thiệp + Problem Statement v1 | Nguyễn Minh Quân | Mai Xuân Khang | Ma trận phân loại, AI Canvas, bộ tiêu chí eval, bản v1 |
-| CP6: Quyết định | Nguyễn Như Duy An | Cả nhóm | Đánh giá 4 rủi ro, quyết định Not Yet kèm ngưỡng dừng |
+| CP6: Quyết định | Nguyễn Như Duy An | Cả nhóm | Đánh giá 4 rủi ro, quyết định Go, pilot Rule 2 tuần kèm ngưỡng dừng |
 
 ## Cá nhân
 
@@ -79,13 +79,13 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 * Thiết kế bảng câu hỏi khảo sát và phân tích dữ liệu micro survey 11 người ở CP4.
 * Đặt câu hỏi phản biện trong buổi pitch ở CP3.
-* Đánh giá 4 rủi ro sản phẩm và thiết lập ngưỡng dừng cho quyết định Not Yet ở CP6.
+* Đánh giá 4 rủi ro sản phẩm và thiết lập ngưỡng dừng cho quyết định Go, phạm vi nhỏ — pilot Rule trong 2 tuần ở CP6.
 
 **Đóng góp cụ thể:**
 
 * Soạn bảng khảo sát gồm 11 câu hỏi theo phương pháp The Mom Test, thu thập phản hồi từ 11 người học để đo lường tần suất và thời gian tìm kiếm thực tế.
 * Pitch bài toán đối soát COD ở CP3, sau đó chất vấn bài toán thông báo môn học về tính khả thi của phương án No AI trước khi đồng thuận chuyển đề tài.
-* Lập luận xác định rủi ro Feasibility và Viability ở mức Cao do vướng chính sách đóng API của Zalo và quyền riêng tư nhóm chat, đi đến quyết định Not Yet.
+* Lập luận xác định rủi ro Feasibility và Viability ở mức Cao do vướng chính sách đóng API của Zalo và quyền riêng tư nhóm chat, đi đến quyết định Go, phạm vi nhỏ — pilot Rule trong 2 tuần.
 
 **Bằng chứng:**
 
