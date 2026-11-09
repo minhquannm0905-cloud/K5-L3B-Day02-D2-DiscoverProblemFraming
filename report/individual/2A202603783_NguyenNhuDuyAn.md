@@ -1,4 +1,4 @@
-# Báo cáo cá nhân — MSSV_HoTen
+# Báo cáo cá nhân — 2A202603783_NguyenNhuDuyAn
 
 > Đổi tên file theo quy tắc `MSSV_HoTen.md`, ví dụ `20241234_NguyenVanAn.md` (MSSV trước, dấu `_`, họ tên viết liền không dấu). Sửa cả dòng tiêu đề phía trên cho khớp.
 > Template chi tiết và prompt mẫu cho từng mục: [docs/01-worksheet.md](../../docs/01-worksheet.md).
@@ -139,16 +139,16 @@ HIỆN TẠI: 75 phút/ngày
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Pitch Card số 1 về "Đối soát tiền thu hộ COD" cho kế toán bán hàng. | Nhóm ghi nhận đây là bài toán có số liệu tài chính rõ ràng nhưng quy trình thiên nhiều về logic cố định (Rule). |
+| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: "Nếu lớp trưởng hoặc giảng viên ghim các thông báo quan trọng lên đầu nhóm chat và tạo sẵn thư mục Google Drive theo môn, liệu có giải quyết được vấn đề tìm kiếm mà không cần dùng công cụ nào không?" | Bạn phụ trách đề xuất đã làm rõ: Dù có ghim tin nhắn, số lượng thông báo dồn dập trong tuần thi vẫn làm trôi thông tin, và sinh viên vẫn mất thời gian mở từng file xem nội dung bên trong |
+| Nhận phản biện | Câu hỏi tôi nhận được: "Bài đối soát COD có thực sự cần AI không hay chỉ cần viết hàm Excel là giải quyết được 90%?" | Tôi đã sửa gì: Thừa nhận bước so khớp mã đơn chỉ cần dùng Rule, và đồng thuận cùng nhóm chuyển hướng sang bài toán tìm kiếm thông tin môn học vì có mức độ mơ hồ cao hơn. |
+| Gom cluster / cây OST | Cùng nhóm gom các đề xuất tìm tài liệu, tìm quyết định cũ vào nhóm "Tìm kiếm và truy xuất thông tin phân tán". | Xây dựng nhánh cơ hội (Opportunity) tập trung vào việc giảm thời gian đọc lướt nội dung trước giờ lên lớp. |
+| Chọn candidate problem | Tham gia chấm điểm 7 tiêu chí cho 3 bài trong danh sách rút gọn. | Thống nhất chọn bài "Tìm lại thông báo và tài liệu môn học" vì tính gần gũi và dễ dàng khảo sát sinh viên trong lớp. |
+| Kiểm chứng / research | Phỏng vấn trực tiếp 2 sinh viên trong lớp về thói quen tìm tài liệu trước giờ kiểm tra; hỗ trợ tìm kiếm tài liệu về các bot thông báo trên Discord/Telegram. | Xác nhận bước nghẽn lớn nhất không phải là tìm link, mà là đọc lướt để biết tài liệu đó có đúng yêu cầu cần nộp hay không. |
+| Quy trình nhóm | Đóng góp ý kiến để vẽ quy trình trước và sau khi có giải pháp xử lý thông báo. | Bổ sung thêm bước sinh viên tự đối chiếu lại với file gốc, tránh việc phụ thuộc hoàn toàn vào tóm tắt tự động. |
+| Problem Statement | Cùng nhóm hoàn thiện bản v0 và tinh chỉnh lên bản v1. | Bổ sung ranh giới an toàn (boundary): công cụ không được tự ý gửi tin nhắn thay sinh viên. |
+| Mức can thiệp AI | Phân tích tính khả thi giữa Rule và Workflow. | Thống nhất chọn mức Workflow: Rule để lọc từ khóa và phân loại môn học, AI để trích xuất các mốc hạn chót từ văn bản dài. |
+| Quyết định | Đánh giá 4 rủi ro sản phẩm (Value, Usability, Feasibility, Viability). | Đồng thuận ra quyết định Not Yet vì bài toán gặp rủi ro Feasibility và Viability cao (chưa có API trích xuất tin nhắn chat an toàn và vướng quyền riêng tư của sinh viên). |
 
 ---
 
@@ -156,12 +156,12 @@ HIỆN TẠI: 75 phút/ngày
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | | | | |
-| CP2 Problem Card | | | | |
-| CP4 Research | | | | |
-| CP5 Quy trình | | | | |
-| CP5–6 Problem Statement | | | | |
-| CP6 Mức can thiệp / quyết định | | | | |
+| CP1 Scan | Tìm thêm góc nhìn về các vấn đề vận hành lặp lại. | Gợi ý được tình huống rà soát hóa đơn công tác. | Gợi ý ý tưởng "tự động quản lý chuỗi cung ứng bằng AI", đây là giải pháp trá hình và quá rộng. | Loại bỏ hoàn toàn ý tưởng chuỗi cung ứng, giữ lại các việc thực tế đo được bằng phút. |
+| CP2 Problem Card | Đưa ra gợi ý về kẽ hở trong card đối soát COD. | Chỉ ra việc so khớp số tiền là bài toán dữ liệu có cấu trúc, không nên lạm dụng AI. | Đề xuất để AI tự gửi khiếu nại sang hãng vận chuyển mà không cần người duyệt. | Bổ sung ranh giới bắt buộc: kế toán phải xác nhận danh sách lệch trước khi gửi khiếu nại. |
+| CP4 Research | Tìm kiếm các giải pháp quản lý tài liệu học tập tự động cho sinh viên. | Liệt kê nhanh tính năng tìm kiếm của Notion AI và các bot Discord mã nguồn mở. | Đưa ra một số liên kết tài liệu đã cũ và không truy cập được. | Tự mở kiểm tra từng trang tài liệu, chỉ giữ lại các giải pháp có dẫn chứng thực tế. |
+| CP5 Quy trình | Chuyển mô tả các bước thành khối mã sơ đồ trực quan. | Tạo khung sơ đồ nhanh chóng, đúng thứ tự các bước. | Gộp bước "mở đọc tài liệu" và "ghi lại yêu cầu" thành một bước duy nhất, làm mất bước nghẽn chính. | Tách riêng hai bước và gắn lại thời gian đo lường thực tế. |
+| CP5–6 Problem Statement | Rà soát lỗi câu từ trong bản Problem Statement. | Phát hiện câu chữ bị dài dòng ở phần tác động (impact). | Đề xuất viết gộp giải pháp kỹ thuật vào phần mô tả vấn đề. | Giữ nguyên nguyên tắc mô tả vấn đề thuần túy, không đưa tên công cụ hay thuật toán vào. |
+| CP6 Mức can thiệp / quyết định | So sánh ưu nhược điểm giữa Rule và Workflow. | Cung cấp góc nhìn về chi phí tính toán khi chạy mô hình ngôn ngữ lớn. | Khuyên dùng hệ thống tự hành (Agent) nhiều bước phức tạp. | Bác bỏ phương án Agent, chọn Workflow kết hợp Rule để tiết kiệm chi phí và giữ quyền kiểm soát cho người dùng. |
 
 ---
 
@@ -170,20 +170,24 @@ HIỆN TẠI: 75 phút/ngày
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
-
+Tôi nhận ra các vấn đề liên quan đến việc tìm kiếm thông tin phân tán xuất hiện rất phổ biến. Ban đầu tôi tập trung vào các bài toán kinh doanh như đối soát công nợ hay hóa đơn hoàn ứng vì nghĩ rằng thiệt hại tài chính mới là thước đo rõ ràng. Khi nghe bạn trình bày về việc mất từ 3 đến 5 phút trước mỗi buổi học chỉ để lục lại file thông báo trong nhóm chat, tôi thấy đây là một nỗi đau lặp lại hàng ngày với tần suất rất cao. Bài toán này có đối tượng chịu ảnh hưởng ngay quanh mình, giúp cả nhóm dễ dàng tiếp cận người thật để phỏng vấn và kiểm chứng thay vì phải phỏng đoán quy trình của các doanh nghiệp bên ngoài.
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
-
+Nhóm tôi từng rơi vào bẫy này ngay khi bắt đầu thảo luận ở Checkpoint 3. Khi bạn phụ trách vừa trình bày xong bài toán tìm kiếm thông báo, cả nhóm lập tức bàn về việc tạo một con bot tự động đọc tin nhắn Telegram hay dùng mô hình ngôn ngữ lớn để trả lời câu hỏi tự động. Chúng tôi nhận ra mình đang nhảy thẳng vào giải pháp khi nhìn vào cây Opportunity Solution Tree: nhánh thảo luận toàn chứa tên phần mềm thay vì nỗi đau của người dùng. Nhóm đã dừng lại, gạch bỏ các từ khóa công nghệ và viết lại nhánh cây tập trung vào khó khăn thực sự: sinh viên bị quá tải bởi số lượng tin nhắn rác và không xác định được file nào là bản cập nhật mới nhất.
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
-
+Tôi đã đổi ý hoàn toàn về việc bảo vệ bài toán đối soát COD của mình. Ban đầu tôi rất tự tin vì bài toán này có số liệu cụ thể. Khi các bạn trong nhóm đặt câu hỏi: "Nếu viết một đoạn code Python so khớp hai cột Excel đã giải quyết được 90% số đơn, thì tại sao phải đưa AI vào để làm phức tạp vấn đề?", tôi nhận thấy bản thân đang cố gượng ép công nghệ vào một quy trình vốn dĩ giải quyết tốt nhất bằng logic cố định (Rule). Tôi rút lui bài toán của mình và chuyển sang ủng hộ bài tìm kiếm thông tin môn học vì nhận thấy nó có sự mơ hồ thực sự trong việc đọc hiểu ngữ cảnh văn bản.
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
-
+Điều làm tôi bất ngờ là khi phỏng vấn nhanh 3 bạn sinh viên trong lớp, cả 3 đều cho biết họ không hề thiếu nơi lưu trữ tài liệu. Giảng viên đã tải bài giảng lên hệ thống trường, nhưng sinh viên vẫn bị lỡ việc vì các thông báo thay đổi phòng học hoặc dời hạn nộp bài thường được gửi đột xuất qua tin nhắn trao đổi nhanh. Thêm vào đó, một bạn chia sẻ rằng bạn không cần công cụ đọc hộ toàn bộ bài giảng, bạn chỉ cần một dòng tóm tắt yêu cầu cần nộp trước khi bước vào cửa lớp. Điều này giúp nhóm tôi nhận ra giá trị cốt lõi nằm ở việc bóc tách hạn chót và việc cần làm, chứ không phải tóm tắt nội dung học thuật dài dòng.
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
-
+Phần khó nhất là việc tách bạch hoàn toàn giải pháp ra khỏi phần phát biểu vấn đề và xác định ranh giới kiểm soát (boundary). Người viết rất dễ có xu hướng đưa chữ "hệ thống tự động" hoặc "công cụ hỗ trợ" vào phần quy trình. Nhóm tôi phải sửa đi sửa lại mục Success Metric để đảm bảo số liệu đo được bằng hành vi thực tế (giảm thời gian tìm kiếm từ 3 đến 5 phút xuống dưới 2 phút), thay vì dùng những từ ngữ chung chung như "giúp sinh viên tiện lợi hơn" hay "tìm kiếm nhanh chóng hơn".
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
-
-**6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
-
----
+Nếu được làm lại từ đầu, tôi sẽ yêu cầu nhóm thực hiện bấm giờ thực tế ngay trong buổi học thay vì sử dụng các con số ước tính. Tôi cũng sẽ phản biện mạnh hơn về rủi ro quyền riêng tư khi thu thập dữ liệu nhóm chat. Việc cho phép một công cụ đọc tin nhắn trong các nhóm trao đổi của sinh viên có thể gặp phải sự e ngại về bảo mật thông tin cá nhân. Nhóm cần đưa yếu tố này vào danh sách giả định cốt lõi ngay từ giai đoạn đầu để có phương án khoanh vùng phạm vi dữ liệu an toàn hơn.
+**6.7. Hiểu bài:** 
+Bài toán của nhóm xuất phát từ việc sinh viên mất từ 3 đến 5 phút trước mỗi buổi học để tìm lại đúng thông báo và tài liệu bài tập bị trôi trong các nhóm chat, dẫn đến nguy cơ bỏ sót yêu cầu quan trọng.
+Quy trình hiện tại bao gồm việc mở nhóm chat, cuộn tìm tin nhắn, tải tài liệu đính kèm, đọc lướt nội dung và ghi lại đầu việc cần chuẩn bị.
+Chỉ số thành công đo lường bằng việc giảm thời gian tìm đúng tài liệu từ mức 3 đến 5 phút xuống dưới 2 phút cho mỗi lần chuẩn bị, đồng thời tỷ lệ bỏ sót yêu cầu bài học giảm về 0%.
+Ranh giới kiểm soát quy định công cụ chỉ được phép trích xuất thông tin từ các kênh thông báo công khai được chỉ định, không được tự động gửi tin nhắn hay nộp bài thay sinh viên, và sinh viên luôn phải đối chiếu lại với tệp gốc.
+Mức can thiệp kỹ thuật được chọn là Workflow kết hợp Rule: áp dụng Rule để lọc từ khóa thông báo theo tên môn, kết hợp bước AI hỗ trợ bóc tách danh sách việc cần làm và hạn chót.
+Quyết định cuối cùng là Not Yet, vì nhóm nhận diện rủi ro kỹ thuật và bảo mật quyền riêng tư ở mức cao khi chưa có cơ chế trích xuất tin nhắn hợp lệ từ các nền tảng chat. Nhóm đặt ngưỡng dừng kiểm chứng trong 1 tuần: nếu không thể kết nối API an toàn hoặc không được sinh viên đồng thuận chia sẻ dữ liệu nhóm, nhóm sẽ chuyển sang No-Go và quay về giải pháp No AI bằng cách ghim thông báo và chuẩn hóa cấu trúc thư mục lưu trữ bài giảng.
 
 ## 7. Tài liệu tham khảo
 
