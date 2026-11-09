@@ -21,9 +21,9 @@
 | 1 | Nguyễn Như Duy An | Khi khách gửi yêu cầu bảo hành kèm mô tả/ảnh, cần trích seri, phân loại lỗi sơ bộ và gán người xử lý để hẹn khách trong 15 phút. | Điều phối viên dịch vụ | Diễn giải mô tả không chuyên môn thành nhóm lỗi: 4 phút/ca | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
 | 2 | Nguyễn Như Duy An | Khi nhận hồ sơ hoàn ứng gồm ảnh hóa đơn/vé xe, cần đối soát ngày, mã số thuế và số tiền để duyệt trong ngày. | Kế toán thanh toán nội bộ | So khớp hóa đơn với bảng kê: 10 phút/bộ | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
 | 3 | Nguyễn Như Duy An | Khi nhận file COD cuối ngày, cần đối chiếu mã vận đơn và tiền thực nhận để phát hiện đơn lệch cước/chưa thanh toán. | Kế toán đối soát công nợ | Rà nguyên nhân từng dòng lệch: 45 phút/ngày | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
-| 4 | Mai Xuân Khang | Khi kết thúc buổi học, cần tổng hợp ý chính từ bài giảng/slide để ôn lại mà không đọc hoặc nghe lại toàn bộ. | Người học | Chọn và viết lại ý chính: khoảng 15 phút | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
-| 5 | Mai Xuân Khang | Khi ôn thi từ nhiều nguồn, cần xác định kiến thức trọng tâm và nội dung thiếu để ưu tiên ôn hiệu quả. | Người học | Đối chiếu kiến thức giữa nhiều nguồn: khoảng 20 phút | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
-| 6 | Mai Xuân Khang | Khi làm bài tập nhóm nhiều thành viên, cần theo dõi nhiệm vụ, tiến độ và thay đổi để tránh sót việc/trễ hạn. | Thành viên nhóm học tập | Đối chiếu thông báo, thay đổi và hạn mới nhất: khoảng 12 phút | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
+| 4 | Mai Xuân Khang | Khi kết thúc buổi học, cần tổng hợp ý chính từ bài giảng/slide để ôn lại mà không đọc hoặc nghe lại toàn bộ. | Người học | Chọn và viết lại ý chính | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
+| 5 | Mai Xuân Khang | Khi ôn thi từ nhiều nguồn, cần xác định kiến thức trọng tâm và nội dung thiếu để ưu tiên ôn hiệu quả. | Người học | Đối chiếu kiến thức giữa nhiều nguồn | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
+| 6 | Mai Xuân Khang | Khi làm bài tập nhóm nhiều thành viên, cần theo dõi nhiệm vụ, tiến độ và thay đổi để tránh sót việc/trễ hạn. | Thành viên nhóm học tập | Đối chiếu thông báo, thay đổi và hạn mới nhất | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
 | 7 | Nguyễn Minh Quân | Khi chuẩn bị học/họp/kiểm tra, cần tìm lại đúng thông báo và tài liệu để không bỏ sót yêu cầu. | Người học | Tìm và mở đúng tài liệu: 3–5 phút/lần | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
 | 8 | Nguyễn Minh Quân | Khi nộp Lab AI thực chiến, cần kiểm tra yêu cầu, tên file và cấu trúc để tránh bị trừ điểm. | Người học làm lab | Đọc và đối chiếu rubric: phần lớn trong 10 phút/lab | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
 | 9 | Nguyễn Minh Quân | Khi nhận lịch kiểm tra/deadline từ email và Zalo, cần tổng hợp ở một nơi để không quên hạn hoặc nhầm lịch thi. | Người học theo nhiều học phần | Tìm thông báo có lịch/deadline: phần lớn trong 10–15 phút/lần | Chờ ghi câu hỏi thực tế và người hỏi sau pitch |
@@ -74,7 +74,7 @@ Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 
 - Đối soát COD và hoàn ứng có impact tài chính rõ nhưng cần file vận hành thật, quyền truy cập và xác minh từ kế toán; nhóm khó kiểm chứng an toàn trong thời gian lab.
 - Tiếp nhận bảo hành có rủi ro phân công/kỹ thuật sai và cần dữ liệu khách hàng, ảnh thiết bị; nhóm chưa đủ domain để đánh giá đầu ra.
-- Các candidate tổng hợp/ôn tập của Mai Xuân Khang hiện dùng mốc "ước tính minh họa", chưa đủ bằng chứng hành vi thật để ưu tiên.
+- Nhóm chưa có đủ bằng chứng hành vi để ưu tiên các đề xuất tổng hợp kiến thức và ôn tập của Mai Xuân Khang.
 - Kiểm tra yêu cầu nộp Lab và tổng hợp deadline có scope gần với candidate được chọn, nhưng pain "tìm đúng thông báo/tài liệu" xảy ra ngay trước nhiều loại hoạt động hơn và có thể là nguyên nhân gốc.
 
 **Xử lý bất đồng (nếu có):** Nhóm ưu tiên candidate dễ kiểm chứng với người học thật và ít rủi ro dữ liệu hơn các candidate vận hành. Các candidate COD/bảo hành được giữ ở hướng tiếp theo.
