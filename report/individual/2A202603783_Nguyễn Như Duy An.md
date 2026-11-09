@@ -56,7 +56,7 @@ Quyết định xử lý: Loại bỏ vì đây là giải pháp trá hình, kh�
 | Quy trình hiện tại (3–7 bước) | 1. Đọc tin nhắn và xem ảnh khách gửi (2 phút) - 2. Gõ lại số seri vào hệ thống để tra cứu bảo hành (2 phút) - 3. Đọc mô tả để đoán linh kiện hỏng (4 phút) - 4. Nhập phiếu sửa chữa vào bảng theo dõi (2 phút) - 5. Nhắn tin gán việc cho kỹ thuật viên phù hợp (2 phút).    |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3, phán đoán linh kiện hỏng từ mô tả của khách: mất 4 phút mỗi ca vì khách dùng từ ngữ không chuyên môn, điều phối viên phải hỏi lại nhiều lần. |
 | Impact (nếu không giải thì sao) | 25 đến 30 ca mỗi ngày, tốn hơn 4 giờ nhập liệu; tuần trước có 4 ca chuyển nhầm thợ làm chậm tiến độ xử lý 1 ngày.  |
-| Success metric (baseline → target) | Thời gian tạo một phiếu bảo hành giảm từ 12 phút xuống dưới 4 phút; tỷ lệ phân công đúng thợ kỹ thuật đạt trên 90%. |
+| Success metric (baseline → target) | Thời gian tạo một phiếu bảo hành giảm từ 12 phút xuống dưới 4 phút; tỷ lệ phân công đúng thợ kỹ thuật tăng cao. |
 | Phương án không dùng AI | Tạo form mẫu cố định có sẵn danh sách chọn lỗi phần cứng để khách tự tích trước khi gửi.    |
 | Giả thuyết về AI (nếu có) | AI trích xuất số seri từ ảnh chụp phiếu bảo hành và phân loại mô tả lỗi thô của khách thành danh mục kỹ thuật. |
 | Cảm nhận nhanh | Workflow. |
@@ -81,7 +81,7 @@ HIỆN TẠI: 12 phút/ca (khoảng 300 phút/ngày)
 | Quy trình hiện tại (3–7 bước) | 1. Mở từng ảnh hóa đơn đính kèm (3 phút) - 2. Gõ thủ công mã số thuế lên trang của Tổng cục Thuế để kiểm tra (7 phút) - 3. Đối chiếu số tiền trên hóa đơn với bảng kê nhân viên tự lập (10 phút) - 4. Ký duyệt và lập ủy nhiệm chi (5 phút). |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3, so khớp từng hóa đơn với bảng kê: mất 10 phút mỗi bộ vì hình chụp hóa đơn mờ hoặc thứ tự sắp xếp lộn xộn. |
 | Impact (nếu không giải thì sao) | 18 bộ hồ sơ mỗi tuần, tốn khoảng 7,5 giờ làm việc; tháng trước có 2 hóa đơn sai mã số thuế làm chậm tiến độ thanh toán 5 ngày. |
-| Success metric (baseline → target) | Thời gian duyệt 1 bộ hồ sơ giảm từ 25 phút xuống dưới 8 phút; không còn hóa đơn sai mã số thuế lọt qua bước duyệt. |
+| Success metric (baseline → target) | Thời gian duyệt 1 bộ hồ sơ giảm từ 25 phút xuống dưới 8 phút; giảm bớt hóa đơn sai mã số thuế lọt qua bước duyệt. |
 | Phương án không dùng AI | Bắt buộc nhân viên tự tra cứu mã số thuế và nộp file XML hóa đơn điện tử thay vì gửi ảnh chụp. |
 | Giả thuyết về AI (nếu có) | Mô hình OCR kết hợp trích xuất thông tin tự động đọc số tiền, mã số thuế từ ảnh chụp và so sánh với bảng kê. |
 | Cảm nhận nhanh | Workflow. |
@@ -105,7 +105,7 @@ HIỆN TẠI: 25 phút/bộ hồ sơ
 | Quy trình hiện tại (3–7 bước) | 1. Tải file Excel từ bên vận chuyển (5 phút) - 2. Xuất dữ liệu đơn hoàn tất từ phần mềm bán hàng (5 phút) - 3. Dùng hàm VLOOKUP ghép 2 bảng (10 phút) - 4. Rà soát từng dòng lệch tiền hoặc sai trạng thái (45 phút) - 5. Lập danh sách đơn lệch gửi bộ phận vận hành kiểm tra (10 phút). |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 4, rà soát từng dòng lệch tiền: mất 45 phút vì phải mở chi tiết từng đơn tìm nguyên nhân do áp mã giảm giá hay tính sai phí lưu kho.|
 | Impact (nếu không giải thì sao) | Trung bình 75 phút mỗi ngày cho 1 kế toán. Xử lí vấn đề chậm trễ, thiếu sót gây thất thoát |
-| Success metric (baseline → target) | Tổng thời gian đối soát giảm từ 75 phút xuống dưới 20 phút mỗi ngày; tỷ lệ phát hiện đơn lệch tiền đạt 100%.  |
+| Success metric (baseline → target) | Tổng thời gian đối soát giảm từ 75 phút xuống dưới 20 phút mỗi ngày; tỷ lệ phát hiện đơn lệch tiền tăng.  |
 | Phương án không dùng AI | Viết macro Excel hoặc script Python tự động so khớp cột mã vận đơn và tiền cước; chỉ cảnh báo các dòng lệch. |
 | Giả thuyết về AI (nếu có) | AI đọc lý do ghi chú từ đơn vị vận chuyển để tự phân loại nguyên nhân lệch cước vào nhóm cụ thể.    |
 | Cảm nhận nhanh | Rule + Workflow |
