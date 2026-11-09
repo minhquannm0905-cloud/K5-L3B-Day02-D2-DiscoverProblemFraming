@@ -6,14 +6,14 @@
 
 - Tên nhóm: D2
 - Candidate problem nhóm chọn (1 câu): Tìm lại thông báo và tài liệu bị trôi trong nhóm chat, nhóm làm việc.
-- Quyết định cuối (Go / Not Yet / No-Go): Not Yet
+- Quyết định cuối (Go / Not Yet / No-Go): Go
 
 ## Thành viên
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
 | 1 | Mai Xuân Khang | 2A202603722 | Thành viên | KhangMai123 |
-| 2 | Nguyễn Minh Quân | 2A202603780 | Nhóm trưởng, điều phối, viết Problem Statement | minhquannm0905-cloud |
+| 2 | Nguyễn Minh Quân | 2A202603747 | Nhóm trưởng, điều phối, viết Problem Statement | minhquannm0905-cloud |
 | 3 | Nguyễn Như Duy An | 2A202603783 | Phụ trách kiểm chứng và khảo sát, phản biện, vẽ quy trình | K0heii |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
@@ -97,3 +97,24 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 * Biết cách khai thác dữ liệu từ hành vi đã xảy ra thay vì tin vào những lời khen xã giao hay phỏng đoán tương lai.
 * Phân biệt rõ ranh giới giữa việc xử lý bằng logic cố định (Rule) và luồng xử lý ngôn ngữ (Workflow).
+
+### NguyenMinhQuan-2A202603747
+
+**Phần việc phụ trách:**
+
+- Điều phối CP3; hỗ trợ research CP4; viết Problem Statement v0 và v1; cùng chọn mức can thiệp và quyết định.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Pitch ba Problem Card, tham gia cluster/OST/shortlist.
+- Tổng hợp research giải pháp và góp ý Problem Statement.
+- Hoàn thiện các mục CP5–CP6 trong `group_report.md`.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- `report/team/group_report.md` mục 2, 3.3, 5–8.
+- Commit cá nhân của bạn trên GitHub.
+
+**Điều mình học được từ phần nhóm:**
+
+- Cần xác minh pain bằng hành vi thật và chọn mức can thiệp đơn giản trước khi cân nhắc AI.
