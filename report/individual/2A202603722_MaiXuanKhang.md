@@ -14,21 +14,19 @@
 
 Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng hợp nhiều thông tin** · **Pain từ người khác**.
 
-Các khoảng thời gian trong bảng là **ước tính minh họa**.
-
 | # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng) |
 | --- | --- | --- | --- | --- |
-| 1 | Cần đọc, tổng hợp nhiều thông tin | Khi chuẩn bị ôn thi từ nhiều nguồn tài liệu, tôi muốn xác định nhanh các kiến thức trọng tâm và nội dung còn thiếu, để ôn tập hiệu quả hơn. | Bản thân tôi, sinh viên đang ôn thi từ nhiều nguồn. | **Ước tính minh họa:** 45–70 phút/phiên tổng hợp. Nội dung có thể nằm rải rác trong slide, bài tập, ghi chú và tài liệu tham khảo. |
-| 2 | Lặp lại | Khi kết thúc mỗi buổi học, tôi muốn tổng hợp nội dung quan trọng từ bài giảng và slide, để dễ dàng xem lại kiến thức mà không phải đọc hoặc nghe lại toàn bộ. | Bản thân tôi, sinh viên tổng hợp ghi chú sau buổi học. | **Ước tính minh họa:** 25–40 phút/buổi để xem lại nội dung và viết ý chính. Có thể phải xem lại các phần chưa rõ. |
-| 3 | Tốn thời gian | Khi thực hiện bài tập hoặc nhiệm vụ học tập có nhiều yêu cầu, tôi muốn nhanh chóng xác định nội dung mình đã hiểu sai hoặc thực hiện thiếu, để sửa bài chính xác mà không phải kiểm tra lại toàn bộ từ đầu. | Bản thân tôi, sinh viên rà bài. Giảng viên hướng dẫn bài tập cũng có thể bị ảnh hưởng khi cần giải thích lại đề. | **Ước tính minh họa:** 20–35 phút/bài để dò chỗ hiểu sai đề hoặc bỏ sót tiêu chí. Giảng viên có thể phải giải thích lại yêu cầu. |
-| 4 | Lặp lại | Khi tham gia dự án hoặc bài tập nhóm có nhiều thành viên, tôi muốn theo dõi nhiệm vụ, tiến độ và các thay đổi, để tránh bỏ sót công việc hoặc trễ deadline. | Bản thân tôi, sinh viên phụ trách một phần bài tập nhóm. | **Ước tính minh họa:** 10–20 phút/lần đối chiếu tiến độ. Nhiệm vụ, hạn và thay đổi có thể nằm rải rác trong chat, tài liệu và bảng phân công. |
-| 5 | Pain từ người khác | Khi cần tìm lại thông tin hoặc hướng dẫn đã được chia sẻ trước đó, tôi muốn truy xuất đúng nội dung nhanh chóng, để không mất thời gian tìm kiếm trong nhiều tài liệu và cuộc hội thoại. | Bản thân tôi, sinh viên tìm lại hướng dẫn. Giảng viên phụ trách học phần cũng có thể nhận câu hỏi lặp lại. | **Ước tính minh họa:** 10–25 phút/lần tìm lại hướng dẫn trong LMS, email, nhóm chat hoặc slide. Nếu chưa tìm được, sinh viên có thể phải hỏi lại giảng viên hoặc bạn học. |
+| 1 | Cần đọc, tổng hợp nhiều thông tin | Khi chuẩn bị ôn thi từ nhiều nguồn tài liệu, tôi muốn xác định nhanh các kiến thức trọng tâm và nội dung còn thiếu, để ôn tập hiệu quả hơn. | Bản thân tôi, sinh viên đang ôn thi từ nhiều nguồn. | Nội dung có thể nằm rải rác trong slide, bài tập, ghi chú và tài liệu tham khảo. |
+| 2 | Lặp lại | Khi kết thúc mỗi buổi học, tôi muốn tổng hợp nội dung quan trọng từ bài giảng và slide, để dễ dàng xem lại kiến thức mà không phải đọc hoặc nghe lại toàn bộ. | Bản thân tôi, sinh viên tổng hợp ghi chú sau buổi học. | Khi tổng hợp ghi chú, có thể phải xem lại slide hoặc phần giảng ở những chỗ chưa rõ. |
+| 3 | Tốn thời gian | Khi thực hiện bài tập hoặc nhiệm vụ học tập có nhiều yêu cầu, tôi muốn nhanh chóng xác định nội dung mình đã hiểu sai hoặc thực hiện thiếu, để sửa bài chính xác mà không phải kiểm tra lại toàn bộ từ đầu. | Bản thân tôi, sinh viên rà bài. Giảng viên hướng dẫn bài tập cũng có thể bị ảnh hưởng khi cần giải thích lại đề. | Có thể phải rà lại chỗ hiểu sai đề hoặc bỏ sót tiêu chí. Giảng viên có thể phải giải thích lại yêu cầu. |
+| 4 | Lặp lại | Khi tham gia dự án hoặc bài tập nhóm có nhiều thành viên, tôi muốn theo dõi nhiệm vụ, tiến độ và các thay đổi, để tránh bỏ sót công việc hoặc trễ deadline. | Bản thân tôi, sinh viên phụ trách một phần bài tập nhóm. | Nhiệm vụ, hạn và thay đổi có thể nằm rải rác trong chat, tài liệu và bảng phân công. |
+| 5 | Pain từ người khác | Khi cần tìm lại thông tin hoặc hướng dẫn đã được chia sẻ trước đó, tôi muốn truy xuất đúng nội dung nhanh chóng, để không mất thời gian tìm kiếm trong nhiều tài liệu và cuộc hội thoại. | Bản thân tôi, sinh viên tìm lại hướng dẫn. Giảng viên phụ trách học phần cũng có thể nhận câu hỏi lặp lại. | Hướng dẫn có thể nằm rải rác trong LMS, email, nhóm chat hoặc slide. Nếu chưa tìm được, sinh viên có thể phải hỏi lại giảng viên hoặc bạn học. |
 
 ---
 
 ## 3. Top 3 Problem Cards + quy trình nháp (CP2)
 
-Các sơ đồ mô tả quy trình hiện tại theo từng tình huống. **Số phút từng bước, tổng thời gian và baseline đều là ước tính minh họa.** Target là mục tiêu đề xuất. Card 1 và Card 3 tính cả quy trình, còn khoảng thời gian tương ứng trong CP1 chỉ nói đến khâu xem lại và tổng hợp hoặc khâu đối chiếu tiến độ.
+Các sơ đồ mô tả quy trình hiện tại và đánh dấu bước nghẽn giả thuyết. Mục tiêu thời gian trong từng card dùng để đánh giá mức cải thiện khi có số đo thực tế.
 
 ### Bảng chọn top 3
 
@@ -46,22 +44,22 @@ Các sơ đồ mô tả quy trình hiện tại theo từng tình huống. **S�
 | Actor | Bản thân tôi, sinh viên đại học tổng hợp bài giảng và slide để ôn lại. |
 | Thời điểm / bối cảnh | Sau một buổi học có slide và ghi chú trên lớp. Đầu ra là bản ghi chú dùng để ôn. |
 | Quy trình hiện tại (3–7 bước) | Mở tài liệu và ghi chú → xem lại slide → đối chiếu nội dung đã học → viết lại ý chính → kiểm tra và lưu ghi chú. |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 4, tổng hợp và viết lại ý chính (15 phút ước tính). Có thể mất thời gian ở khâu chọn ý và diễn đạt lại. |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 4, tổng hợp và viết lại ý chính. Có thể mất thời gian ở khâu chọn ý và diễn đạt lại. |
 | Impact (nếu không giải thì sao) | Có thể tốn thêm thời gian xem lại tài liệu khi ôn hoặc bỏ sót ý chính của buổi học. |
-| Success metric (baseline → target) | Baseline minh họa 45 phút/buổi → target đề xuất 25–30 phút/buổi. Bấm giờ từ khi mở tài liệu đến khi lưu ghi chú và so các buổi có lượng nội dung tương đương. Đếm số ý chính bị bỏ sót theo mục tiêu bài học, với mục tiêu là 0. |
+| Success metric (baseline → target) | Mục tiêu đề xuất 25–30 phút/buổi. Bấm giờ từ khi mở tài liệu đến khi lưu ghi chú và so các buổi có lượng nội dung tương đương. Đếm số ý chính bị bỏ sót theo mục tiêu bài học, với mục tiêu là 0. |
 | Phương án không dùng AI | Dùng mẫu ghi chú thống nhất theo mục tiêu bài học và đánh dấu nội dung quan trọng ngay trong buổi học. |
 | Giả thuyết về AI (nếu có) | Nếu bước viết lại vẫn tốn nhiều thời gian, AI có thể giúp sắp xếp ghi chú thành dàn ý. Sinh viên kiểm tra lại các ý chính với slide và ghi chú gốc. |
 | Cảm nhận nhanh | Ưu tiên mẫu ghi chú vì có thể chuẩn bị ngay trong buổi học. Cân nhắc hỗ trợ thêm nếu khâu viết lại vẫn là bước nghẽn. |
 
-**Quy trình hiện tại (As-Is) · Tổng 45 phút ước tính**
+**Quy trình hiện tại (As-Is)**
 
 ```mermaid
 flowchart LR
-    A["1. Mở tài liệu và ghi chú<br/>3 phút"]
-    B["2. Xem lại slide<br/>10 phút"]
-    C["3. Đối chiếu nội dung đã học<br/>12 phút"]
-    D["4. Tổng hợp và viết lại ý chính<br/>15 phút<br/>Bottleneck giả thuyết"]
-    E["5. Kiểm tra và lưu ghi chú<br/>5 phút"]
+    A["1. Mở tài liệu và ghi chú"]
+    B["2. Xem lại slide"]
+    C["3. Đối chiếu nội dung đã học"]
+    D["4. Tổng hợp và viết lại ý chính<br/>Bottleneck giả thuyết"]
+    E["5. Kiểm tra và lưu ghi chú"]
     A --> B --> C --> D --> E
 ```
 
@@ -73,22 +71,22 @@ flowchart LR
 | Actor | Bản thân tôi, sinh viên đại học ôn một học phần có slide, bài tập, ghi chú và tài liệu tham khảo. |
 | Thời điểm / bối cảnh | Đầu một phiên chuẩn bị ôn thi, khi cần biết nội dung nào thuộc phạm vi thi và phần nào mình chưa nắm vững. |
 | Quy trình hiện tại (3–7 bước) | Xem phạm vi → thu thập tài liệu → đối chiếu kiến thức giữa các nguồn → xác định phần chưa nắm vững → lập danh sách ưu tiên. |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3, đối chiếu kiến thức từ nhiều nguồn (20 phút ước tính). Các nguồn có thể trình bày cùng một chủ đề ở mức độ khác nhau. |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3, đối chiếu kiến thức từ nhiều nguồn. Các nguồn có thể trình bày cùng một chủ đề ở mức độ khác nhau. |
 | Impact (nếu không giải thì sao) | Có thể dành nhiều thời gian đọc nội dung trùng lặp hoặc bỏ sót chủ đề cần ôn trước kỳ thi. |
-| Success metric (baseline → target) | Baseline minh họa 65 phút/phiên → target đề xuất 35–40 phút/phiên. Bấm giờ từ lúc xem phạm vi đến khi có danh sách ưu tiên. Đối chiếu với phạm vi do giảng viên cung cấp và đếm số chủ đề bị bỏ sót, với mục tiêu là 0. |
+| Success metric (baseline → target) | Mục tiêu đề xuất 35–40 phút/phiên. Bấm giờ từ lúc xem phạm vi đến khi có danh sách ưu tiên. Đối chiếu với phạm vi do giảng viên cung cấp và đếm số chủ đề bị bỏ sót, với mục tiêu là 0. |
 | Phương án không dùng AI | Dùng checklist theo từng chủ đề và bảng theo dõi tiến độ ôn tập, có nguồn tài liệu và phần cần luyện thêm. |
 | Giả thuyết về AI (nếu có) | Nếu việc ghép chủ đề với tài liệu vẫn tốn thời gian, AI có thể gợi ý mục liên quan trong tài liệu được cung cấp. Sinh viên đối chiếu từng gợi ý với phạm vi ôn tập. |
 | Cảm nhận nhanh | Ưu tiên checklist khi phạm vi thi rõ. Nếu phạm vi chưa rõ, cần xác nhận với giảng viên trước khi phân loại tài liệu. |
 
-**Quy trình hiện tại (As-Is) · Tổng 65 phút ước tính**
+**Quy trình hiện tại (As-Is)**
 
 ```mermaid
 flowchart LR
-    A["1. Xem phạm vi ôn tập<br/>5 phút"]
-    B["2. Thu thập tài liệu<br/>15 phút"]
-    C["3. Đối chiếu kiến thức từ các nguồn<br/>20 phút<br/>Bottleneck giả thuyết"]
-    D["4. Xác định phần chưa nắm vững<br/>15 phút"]
-    E["5. Lập danh sách kiến thức ưu tiên<br/>10 phút"]
+    A["1. Xem phạm vi ôn tập"]
+    B["2. Thu thập tài liệu"]
+    C["3. Đối chiếu kiến thức từ các nguồn<br/>Bottleneck giả thuyết"]
+    D["4. Xác định phần chưa nắm vững"]
+    E["5. Lập danh sách kiến thức ưu tiên"]
     A --> B --> C --> D --> E
 ```
 
@@ -100,22 +98,22 @@ flowchart LR
 | Actor | Bản thân tôi, sinh viên phụ trách một phần bài tập nhóm. |
 | Thời điểm / bối cảnh | Trước mốc nộp, khi cần kiểm tra phần việc của mình và các thay đổi nhóm đã thống nhất. |
 | Quy trình hiện tại (3–7 bước) | Xem việc đã giao → đọc trao đổi và cập nhật → đối chiếu trạng thái và hạn → xác nhận điểm chưa rõ → cập nhật phần việc của mình. |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3, đối chiếu thông báo và thay đổi để xác định trạng thái và hạn mới nhất (12 phút ước tính). |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3, đối chiếu thông báo và thay đổi để xác định trạng thái và hạn mới nhất. |
 | Impact (nếu không giải thì sao) | Có thể bỏ sót nhiệm vụ, làm theo yêu cầu cũ hoặc bàn giao muộn, ảnh hưởng đến phần việc của thành viên khác. |
-| Success metric (baseline → target) | Baseline minh họa 40 phút/lần cập nhật có xác nhận → target đề xuất 15–20 phút/lần. Bấm giờ từ lúc xem việc được giao đến khi cập nhật xong phần việc và ghi riêng thời gian chờ phản hồi. Đối chiếu với lịch sử giao việc để kiểm đủ nhiệm vụ, người phụ trách và hạn mới nhất, đồng thời ghi số việc bị bỏ sót. |
+| Success metric (baseline → target) | Mục tiêu đề xuất 15–20 phút/lần. Bấm giờ từ lúc xem việc được giao đến khi cập nhật xong phần việc và ghi riêng thời gian chờ phản hồi. Đối chiếu với lịch sử giao việc để kiểm đủ nhiệm vụ, người phụ trách và hạn mới nhất, đồng thời ghi số việc bị bỏ sót. |
 | Phương án không dùng AI | Dùng bảng phân công chung ghi nhiệm vụ, người phụ trách, trạng thái và hạn. Thống nhất ai cập nhật mỗi khi có thay đổi. |
 | Giả thuyết về AI (nếu có) | Nếu cập nhật vẫn nằm ở nhiều nơi, AI có thể gom những thay đổi đã được ghi lại để thành viên đối chiếu. Người phụ trách xác nhận nhiệm vụ và hạn trước khi cập nhật bảng. |
 | Cảm nhận nhanh | Ưu tiên bảng chung và quy ước cập nhật. Tách thời gian chờ phản hồi khi đánh giá mức giảm thời gian. |
 
-**Quy trình hiện tại (As-Is) · Tổng 40 phút ước tính**
+**Quy trình hiện tại (As-Is)**
 
 ```mermaid
 flowchart LR
-    A["1. Xem lại nhiệm vụ được phân công<br/>5 phút"]
-    B["2. Đọc trao đổi và cập nhật<br/>8 phút"]
-    C["3. Đối chiếu trạng thái và deadline<br/>12 phút<br/>Bottleneck giả thuyết"]
-    D["4. Xác nhận những thay đổi chưa rõ<br/>10 phút"]
-    E["5. Cập nhật phần việc của bản thân<br/>5 phút"]
+    A["1. Xem lại nhiệm vụ được phân công"]
+    B["2. Đọc trao đổi và cập nhật"]
+    C["3. Đối chiếu trạng thái và deadline<br/>Bottleneck giả thuyết"]
+    D["4. Xác nhận những thay đổi chưa rõ"]
+    E["5. Cập nhật phần việc của bản thân"]
     A --> B --> C --> D --> E
 ```
 
@@ -166,7 +164,7 @@ Khi làm bài tập nhóm, nhiệm vụ, trạng thái và hạn nộp có thể
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | Gợi ý vấn đề, sắp xếp Job Story và phân loại theo lăng kính. Thời gian minh họa do học viên cung cấp. | [Tự đánh giá sau khi tự scan] | [Tự đánh giá khi đối chiếu trải nghiệm] | [Tự ghi ý giữ, bỏ hoặc viết lại và lý do] |
+| CP1 Scan | Gợi ý vấn đề, sắp xếp Job Story và phân loại theo lăng kính. | [Tự đánh giá sau khi tự scan] | [Tự đánh giá khi đối chiếu trải nghiệm] | [Tự ghi ý giữ, bỏ hoặc viết lại và lý do] |
 | CP2 Problem Card | Sắp xếp Problem Card và sơ đồ theo dữ liệu do học viên cung cấp, phản biện các card và đề xuất Card #3. | [Tự đánh giá sau khi kiểm tra card] | [Tự đánh giá sau khi đối chiếu quy trình và số đo] | [Tự ghi điểm đã sửa sau phản biện] |
 | CP4 Research | [Tự cập nhật nếu có dùng] | | | |
 | CP5 Quy trình | [Tự cập nhật nếu có dùng] | | | |
