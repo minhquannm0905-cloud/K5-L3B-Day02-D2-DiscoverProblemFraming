@@ -72,4 +72,4 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 **Điều mình học được từ phần nhóm**
 
--
+- Việc thu hẹp vấn đề giúp nhóm xác định rõ cần quan sát bước nào và đánh giá kết quả bằng cách nào. Chẳng hạn, với bài toán tìm lại thông báo, có thể đo thời gian của từng lượt tìm và kiểm tra xem người học đã mở đúng nguồn hay chưa.
