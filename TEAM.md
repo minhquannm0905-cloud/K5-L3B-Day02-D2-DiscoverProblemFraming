@@ -5,7 +5,7 @@
 ## Thông tin nhóm
 
 - Tên nhóm: D2
-- Candidate problem nhóm chọn (1 câu):
+- Candidate problem nhóm chọn (1 câu): Tìm lại thông báo và tài liệu bị trôi trong nhóm chat, nhóm làm việc.
 - Quyết định cuối (Go / Not Yet / No-Go): Not Yet
 
 ## Thành viên
