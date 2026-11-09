@@ -174,28 +174,40 @@ flowchart LR
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
+
 Tôi nhận ra các vấn đề tìm kiếm thông tin phân tán xuất hiện rất nhiều trong đời sống. Ban đầu tôi nghĩ phải chọn bài toán có thiệt hại tiền bạc như đối soát COD mới đáng làm. Khi nghe bạn trình bày việc mất từ 3 đến 5 phút trước mỗi buổi học chỉ để lục lại file thông báo bị trôi, tôi thấy đây là nỗi đau có tần suất lặp lại rất cao. Việc chọn đề tài gần gũi giúp cả nhóm dễ dàng tiếp cận người dùng thật để phỏng vấn thay vì phải suy đoán quy trình của doanh nghiệp bên ngoài.
+
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+
 Nhóm tôi rơi vào bẫy này ngay đầu buổi thảo luận Checkpoint 3. Vừa nghe xong đề xuất tìm thông báo, cả nhóm lập tức bàn việc lập bot Telegram hay dùng mô hình ngôn ngữ lớn để trả lời tự động. Nhóm nhận ra khi nhìn vào cây Opportunity Solution Tree: toàn bộ các nhánh đều chứa tên công cụ thay vì nhu cầu của người dùng. Nhóm đã dừng lại, gạch bỏ tên công cụ và viết lại các nhánh tập trung vào khó khăn thật: sinh viên bị trôi tin nhắn và mất thời gian đọc lướt để tìm hạn nộp.
+
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
+
 Tôi đổi ý về việc bảo vệ bài toán đối soát COD. Ban đầu tôi nghĩ bài này thuyết phục vì có số liệu thiệt hại 1,4 triệu đồng rõ ràng. Khi nhóm chất vấn: "Nếu chỉ cần viết script Excel so khớp hai cột là giải quyết được phần lớn công việc, tại sao phải dùng AI?", tôi nhận ra mình đang cố gượng ép công nghệ vào quy trình vốn dĩ giải quyết tốt nhất bằng logic cố định. Tôi chủ động rút lui bài toán của mình và đồng thuận chọn bài tìm tài liệu vì có độ mơ hồ cao hơn trong khâu đọc hiểu nội dung.
+
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
+
 Điều làm tôi bất ngờ là sinh viên không hề thiếu nơi lưu trữ tài liệu. Giảng viên đã tải bài giảng lên hệ thống trường, nhưng sinh viên vẫn bị lỡ việc do các thông báo đổi phòng học hoặc hạn nộp bài thường gửi qua nhóm chat trao đổi nhanh. Khi phỏng vấn, một bạn cho biết bạn không cần công cụ đọc hộ toàn bộ bài giảng, bạn chỉ cần một dòng tóm tắt yêu cầu nộp bài trước khi vào lớp. Điều này giúp nhóm nhận ra giá trị cốt lõi là bóc tách việc cần làm, không phải tóm tắt tài liệu học thuật dài dòng.
+
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
+
 Khó nhất là không đưa giải pháp vào mô tả vấn đề và đặt metric đo lường được bằng hành vi thật. Cả nhóm rất dễ có xu hướng viết các từ chung chung như "giúp sinh viên tiện lợi hơn". Nhóm phải sửa lại Success Metric thành: giảm thời gian tìm đúng tài liệu từ 3 đến 5 phút xuống dưới 2 phút, đo bằng cách tự bấm giờ trong 4 lần chuẩn bị bài tiếp theo.
+
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
+
 Nếu làm lại, tôi sẽ yêu cầu nhóm bấm giờ thực tế ngay trong buổi học thay vì dùng số ước tính. Tôi cũng sẽ phản biện mạnh hơn về rào cản kỹ thuật lấy tin nhắn từ ứng dụng chat. Các nền tảng như Zalo hay Messenger không mở API đọc tin nhắn cá nhân tự do. Nếu nhóm làm rõ điểm nghẽn kỹ thuật này sớm hơn, nhóm sẽ không mất nhiều thời gian bàn về giải pháp tích hợp bot chat tự động.
+
 **6.7. Hiểu bài:** 
+
 Bài toán xuất phát từ việc sinh viên mất 3 đến 5 phút trước mỗi buổi học để tìm lại thông báo và file tài liệu bị trôi trong nhóm chat. Quy trình hiện tại gồm 5 bước: mở chat, cuộn tìm tin, tải tài liệu, đọc lướt nội dung và ghi lại yêu cầu cần làm. Chỉ số đo lường là giảm thời gian tìm đúng tài liệu xuống dưới 2 phút và tỷ lệ bỏ sót yêu cầu giảm về 0%. Ranh giới quy định công cụ chỉ đọc tài liệu trong kênh thông báo công khai được chỉ định, không tự gửi tin nhắn hay nộp bài thay sinh viên, và người dùng luôn phải tự đối chiếu lại với file gốc. Nhóm chọn mức Workflow: Rule lọc tin nhắn theo từ khóa môn học, AI hỗ trợ trích xuất hạn chót và việc cần nộp. Quyết định cuối cùng là Not Yet vì hai rào cản lớn: thiếu API lấy dữ liệu tin nhắn an toàn từ các ứng dụng chat phổ biến và sinh viên chưa sẵn sàng chia sẻ quyền đọc tin nhắn nhóm nội bộ. Nhóm đặt ngưỡng dừng: kiểm chứng kỹ thuật trên Discord hoặc Telegram trong 1 tuần; nếu không tìm được phương án đọc dữ liệu an toàn hoặc sinh viên từ chối, nhóm chuyển sang No-Go và quay về giải pháp ghim thông báo cùng quy ước lưu trữ drive cố định.
 
 ## 7. Tài liệu tham khảo
 
-Intercom: Jobs to be Done & Job Stories framework.
+- Intercom: Jobs to be Done & Job Stories framework.
 
-Teresa Torres: Continuous Discovery Habits (Opportunity Solution Tree).
+- Teresa Torres: Continuous Discovery Habits (Opportunity Solution Tree).
 
-Rob Fitzpatrick: The Mom Test.
+- Rob Fitzpatrick: The Mom Test.
 
-Marty Cagan: Inspired - Four Big Risks framework.
+- Marty Cagan: Inspired - Four Big Risks framework.
 
--
