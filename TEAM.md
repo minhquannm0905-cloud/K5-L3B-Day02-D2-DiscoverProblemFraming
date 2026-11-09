@@ -12,7 +12,7 @@
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | | | | |
+| 1 | Mai Xuân Khang | 2A202603722 | Thành viên | KhangMai123 |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
@@ -52,5 +52,24 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 -
 
 **Điều mình học được từ phần nhóm:**
+
+-
+
+### MaiXuanKhang-2A202603722
+
+**Phần việc phụ trách**
+
+- Chuẩn bị phần CP1–CP2 của báo cáo cá nhân và ba đề xuất để nhóm xem xét ở CP3.
+
+**Đóng góp cụ thể**
+
+- Ghi lại năm vấn đề trong bối cảnh đại học và xây dựng ba Problem Card về tổng hợp kiến thức sau buổi học, tổng hợp tài liệu ôn tập và theo dõi tiến độ nhóm.
+- Mô tả quy trình hiện tại, bước nghẽn giả thuyết và cách đo cho từng card. Ba đề xuất được ghi ở dòng 4–6 trong bảng pitch của nhóm.
+
+**Bằng chứng**
+
+- [Báo cáo cá nhân, mục 2–3](report/individual/2A202603722_MaiXuanKhang.md) và [báo cáo nhóm, mục 2](report/team/group_report.md#2-hội-tụ-nhóm-cp3).
+
+**Điều mình học được từ phần nhóm**
 
 -

@@ -147,7 +147,7 @@ Khi làm bài tập nhóm, nhiệm vụ, trạng thái và hạn nộp có thể
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | [Tự cập nhật sau CP3] | [Tự cập nhật] |
+| Pitch Problem Card | Chuẩn bị ba card về tổng hợp kiến thức sau buổi học, tổng hợp tài liệu ôn tập và theo dõi tiến độ nhóm. | Ba đề xuất được ghi ở dòng 4–6 trong bảng pitch của [báo cáo nhóm, mục 2](../team/group_report.md#2-hội-tụ-nhóm-cp3). |
 | Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: [Tự cập nhật sau CP3] | [Tự cập nhật] |
 | Nhận phản biện | Câu hỏi tôi nhận được: [Tự cập nhật sau CP3] | Tôi đã sửa gì: [Tự cập nhật] |
 | Gom cluster / cây OST | [Tự cập nhật sau CP3] | [Tự cập nhật] |
