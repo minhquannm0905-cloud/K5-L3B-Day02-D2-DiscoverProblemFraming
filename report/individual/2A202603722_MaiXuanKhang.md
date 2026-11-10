@@ -36,7 +36,7 @@ Các sơ đồ mô tả quy trình hiện tại theo từng tình huống. Targe
 | 2 | Tổng hợp tài liệu ôn tập từ nhiều nguồn (CP1 #1) | Có thể giới hạn trong một học phần và đối chiếu danh sách ưu tiên với phạm vi ôn tập. | Phạm vi ôn tập có đủ rõ để kiểm tra chủ đề còn thiếu không? |
 | 3 | Theo dõi tiến độ và phối hợp nhóm (CP1 #4) | Có thể xem lại lịch sử giao việc để xác định thay đổi nào gây hỏi lại hoặc bỏ sót nhiệm vụ. | Mất thời gian vì phải đối chiếu nhiều nơi hay vì phải chờ người xác nhận? |
 
-### Problem Card #1
+### Problem Card #1 — Tổng hợp kiến thức sau buổi học
 
 | Trường | Nội dung |
 | --- | --- |
@@ -63,7 +63,7 @@ flowchart LR
     A --> B --> C --> D --> E
 ```
 
-### Problem Card #2
+### Problem Card #2 — Ôn tập từ nhiều nguồn tài liệu
 
 | Trường | Nội dung |
 | --- | --- |
@@ -90,7 +90,7 @@ flowchart LR
     A --> B --> C --> D --> E
 ```
 
-### Problem Card #3
+### Problem Card #3 — Theo dõi tiến độ và phối hợp nhóm
 
 | Trường | Nội dung |
 | --- | --- |
@@ -145,8 +145,6 @@ Khi làm bài tập nhóm, nhiệm vụ, trạng thái và hạn nộp có thể
 
 ## 4. Tôi đã tham gia phần nào (CP3 → CP7)
 
-Tôi chuẩn bị ba Problem Card để nhóm xem xét và tham gia đặt câu hỏi phản biện ở CP3.
-
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
 | Pitch Problem Card | Chuẩn bị ba đề xuất về tổng hợp kiến thức sau buổi học, ôn tập từ nhiều nguồn và theo dõi tiến độ nhóm. Card tôi chọn để trình bày là theo dõi tiến độ và phối hợp nhóm. | Ba đề xuất được ghi ở dòng 4–6 trong bảng pitch của [báo cáo nhóm, mục 2](../team/group_report.md#2-hội-tụ-nhóm-cp3). |
@@ -154,31 +152,24 @@ Tôi chuẩn bị ba Problem Card để nhóm xem xét và tham gia đặt câu 
 | Nhận phản biện | Duy An hỏi mốc 15 phút đã được bấm giờ chưa và liệu tóm tắt thay có giúp người học hiểu bài. Minh Quân hỏi dựa vào đâu để biết tài liệu nào là chuẩn khi ôn từ nhiều nguồn. Tôi cũng tự phản biện Card #3 về việc nhóm cần công cụ mới hay chỉ cần quy ước cập nhật. | Card #1 bổ sung bước tự giải thích ý chính và giữ cách bấm giờ riêng. Card #2 xác định đề cương hoặc hướng dẫn của giảng viên là căn cứ. Card #3 làm rõ người cập nhật bảng mỗi khi nhiệm vụ hoặc hạn thay đổi. |
 | Gom cluster / cây OST | Không trực tiếp tham gia. | Đề xuất của tôi được xếp vào hai nhóm vấn đề là quản lý thông tin học tập và phối hợp nhóm. |
 | Chọn candidate problem | Tôi đưa ra đề xuất và đặt câu hỏi phản biện. | Nhóm chọn đề xuất số 7 của Nguyễn Minh Quân về tìm lại thông báo và tài liệu trước buổi học, họp hoặc kiểm tra. |
-| Kiểm chứng / research | Không trực tiếp tham gia phần kiểm chứng của nhóm. | Nhóm thu hẹp phạm vi sau khảo sát sang việc tìm lại thông tin đã chốt. |
-| Quy trình nhóm | Không trực tiếp tham gia. | — |
-| Problem Statement | Không trực tiếp tham gia soạn. | — |
-| Mức can thiệp AI | Không trực tiếp tham gia lựa chọn. | Báo cáo nhóm chọn Rule. |
-| Quyết định | Không trực tiếp tham gia chốt quyết định. | — |
-
-### Câu hỏi chuẩn bị thêm cho CP3
-
-| Đề xuất | Câu hỏi để thảo luận |
-|---|---|
-| Duy An · Phân loại bảo hành | Nếu khách điền triệu chứng và gửi ảnh số sê-ri rõ ngay từ đầu, tỷ lệ gán nhầm thợ giảm được bao nhiêu khi dùng biểu mẫu và quy tắc phân loại? |
-| Duy An · Đối soát COD | Sau khi dùng quy tắc hoặc bảng tính để lọc đơn lệch tiền, bao nhiêu trường hợp còn lại cần đọc ghi chú tự do? Trong số đó, trường hợp nào cần AI thay vì kế toán tự kiểm tra? |
-| Minh Quân · Tìm lại thông báo và tài liệu | Khi nhóm đã ghim tin và có thư mục Drive, vì sao người học vẫn phải tìm lại nhiều lần? Nhóm sẽ kiểm tra thế nào để biết người học mở đúng file và đúng phiên bản trong thời gian mục tiêu? |
-| Tự kiểm tra · Tổng hợp kiến thức sau buổi học | Cần đo riêng những bước nào để biết thời gian chủ yếu nằm ở viết lại ý chính, đọc tài liệu dài hay xem lại đoạn giảng chưa rõ? |
-| Tự kiểm tra · Theo dõi tiến độ nhóm | Thời gian bị mất chủ yếu vì thông tin nằm nhiều nơi hay vì tiến độ không được cập nhật đúng hạn? Nếu là vấn đề cập nhật, công cụ mới giúp được gì khi chưa có quy ước rõ? |
+| Kiểm chứng / research | Bảng phân công ghi tôi hỗ trợ kiểm chứng và phụ trách research. Phần trực tiếp thực hiện của tôi được ghi nhận đến CP3. | Nhóm thu hẹp phạm vi sau khảo sát sang việc tìm lại thông tin đã chốt. |
+| Quy trình nhóm | Bảng phân công ghi tôi hỗ trợ CP5. | Báo cáo nhóm mô tả quy trình dùng mục lục chung và đối chiếu lại nguồn gốc. |
+| Problem Statement | Bảng phân công ghi tôi hỗ trợ phần v1. | Nhóm đặt mục tiêu ít nhất 70% lượt tìm dưới 2 phút và không dùng nhầm đường dẫn hoặc phiên bản. |
+| Mức can thiệp AI | Bảng phân công ghi tôi hỗ trợ CP6. | Báo cáo nhóm chọn Rule. |
+| Quyết định | Không trực tiếp tham gia chốt quyết định. | Nhóm chốt Go trong phạm vi nhỏ và thử phương án Rule trong hai tuần. |
 
 ---
 
 ## 5. Dùng AI
 
-| Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Điều chỉnh trong báo cáo |
+| Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
 | CP1 Scan | Gợi ý vấn đề, sắp xếp Job Story và phân loại theo lăng kính. | Giúp tách tình huống, nhu cầu và kết quả mong muốn của người học. | Một số ý ban đầu thiên về xử lý sự cố kỹ thuật, chưa sát bối cảnh học tập. Các gợi ý cũng chưa có dẫn chứng cho từng vấn đề. | Chuyển trọng tâm sang rà yêu cầu bài tập và tìm lại hướng dẫn. Thêm các bài đăng công khai vào cột dẫn chứng riêng. |
 | CP2 Problem Card | Sắp xếp ba card, mô tả quy trình và phản biện cách đo. | Giúp tách bước nghẽn, tác động và tiêu chí thành công. | Tổng số phút chưa cho biết bước nào gây chậm hoặc đầu ra có còn thiếu thông tin không. | Bổ sung cách đo từng bước. Ở Card #3, tách thời gian chờ khỏi thời gian tìm và đối chiếu nhiệm vụ, người phụ trách, hạn nộp với nguồn gốc. |
-| CP4–CP6 | Phần tham gia của tôi trong bài nhóm dừng ở CP3. | — | — | — |
+| CP4 Research | Không có phần sử dụng cá nhân được ghi nhận. | — | — | — |
+| CP5 Quy trình | Không có phần sử dụng cá nhân được ghi nhận. | — | — | — |
+| CP5–6 Problem Statement | Không có phần sử dụng cá nhân được ghi nhận. | — | — | — |
+| CP6 Mức can thiệp / quyết định | Không có phần sử dụng cá nhân được ghi nhận. | — | — | — |
 
 ---
 
