@@ -150,7 +150,7 @@ Tôi chuẩn bị ba Problem Card để nhóm xem xét và tham gia đặt câu 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
 | Pitch Problem Card | Chuẩn bị ba đề xuất về tổng hợp kiến thức sau buổi học, ôn tập từ nhiều nguồn và theo dõi tiến độ nhóm. Card tôi chọn để trình bày là theo dõi tiến độ và phối hợp nhóm. | Ba đề xuất được ghi ở dòng 4–6 trong bảng pitch của [báo cáo nhóm, mục 2](../team/group_report.md#2-hội-tụ-nhóm-cp3). |
-| Phản biện bài của bạn khác | Tôi hỏi Duy An liệu OCR còn tiết kiệm thời gian nếu kế toán phải kiểm lại ảnh hóa đơn mờ, nhàu hoặc viết tay. Tôi hỏi Minh Quân liệu ghim tin và sắp thư mục theo môn đã đủ để tìm lại thông báo, và liệu việc kiểm rubric mỗi tuần một lần có đủ thường xuyên để cần giải pháp riêng. | Ba câu hỏi được ghi ở dòng 2, 7 và 8 của bảng pitch. |
+| Phản biện bài của bạn khác | Tôi hỏi Duy An liệu OCR còn tiết kiệm thời gian nếu kế toán phải kiểm lại ảnh hóa đơn mờ, nhàu hoặc viết tay. Tôi hỏi Minh Quân liệu việc kiểm rubric mỗi tuần một lần có đủ thường xuyên để cần giải pháp riêng. | Hai câu hỏi này được ghi ở dòng 2 và 8 của bảng pitch. |
 | Nhận phản biện | Duy An hỏi mốc 15 phút đã được bấm giờ chưa và liệu tóm tắt thay có giúp người học hiểu bài. Minh Quân hỏi dựa vào đâu để biết tài liệu nào là chuẩn khi ôn từ nhiều nguồn. Tôi cũng tự phản biện Card #3 về việc nhóm cần công cụ mới hay chỉ cần quy ước cập nhật. | Card #1 bổ sung bước tự giải thích ý chính và giữ cách bấm giờ riêng. Card #2 xác định đề cương hoặc hướng dẫn của giảng viên là căn cứ. Card #3 làm rõ người cập nhật bảng mỗi khi nhiệm vụ hoặc hạn thay đổi. |
 | Gom cluster / cây OST | Không trực tiếp tham gia. | Đề xuất của tôi được xếp vào hai nhóm vấn đề là quản lý thông tin học tập và phối hợp nhóm. |
 | Chọn candidate problem | Tôi đưa ra đề xuất và đặt câu hỏi phản biện. | Nhóm chọn đề xuất số 7 của Nguyễn Minh Quân về tìm lại thông báo và tài liệu trước buổi học, họp hoặc kiểm tra. |
@@ -159,6 +159,16 @@ Tôi chuẩn bị ba Problem Card để nhóm xem xét và tham gia đặt câu 
 | Problem Statement | Không trực tiếp tham gia soạn. | — |
 | Mức can thiệp AI | Không trực tiếp tham gia lựa chọn. | Báo cáo nhóm chọn Rule. |
 | Quyết định | Không trực tiếp tham gia chốt quyết định. | — |
+
+### Câu hỏi chuẩn bị thêm cho CP3
+
+| Đề xuất | Câu hỏi để thảo luận |
+|---|---|
+| Duy An · Phân loại bảo hành | Nếu khách điền triệu chứng và gửi ảnh số sê-ri rõ ngay từ đầu, tỷ lệ gán nhầm thợ giảm được bao nhiêu khi dùng biểu mẫu và quy tắc phân loại? |
+| Duy An · Đối soát COD | Sau khi dùng quy tắc hoặc bảng tính để lọc đơn lệch tiền, bao nhiêu trường hợp còn lại cần đọc ghi chú tự do? Trong số đó, trường hợp nào cần AI thay vì kế toán tự kiểm tra? |
+| Minh Quân · Tìm lại thông báo và tài liệu | Khi nhóm đã ghim tin và có thư mục Drive, vì sao người học vẫn phải tìm lại nhiều lần? Nhóm sẽ kiểm tra thế nào để biết người học mở đúng file và đúng phiên bản trong thời gian mục tiêu? |
+| Tự kiểm tra · Tổng hợp kiến thức sau buổi học | Cần đo riêng những bước nào để biết thời gian chủ yếu nằm ở viết lại ý chính, đọc tài liệu dài hay xem lại đoạn giảng chưa rõ? |
+| Tự kiểm tra · Theo dõi tiến độ nhóm | Thời gian bị mất chủ yếu vì thông tin nằm nhiều nơi hay vì tiến độ không được cập nhật đúng hạn? Nếu là vấn đề cập nhật, công cụ mới giúp được gì khi chưa có quy ước rõ? |
 
 ---
 

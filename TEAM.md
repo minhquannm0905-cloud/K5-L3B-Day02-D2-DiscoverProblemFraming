@@ -64,7 +64,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 - Ghi lại năm vấn đề trong bối cảnh đại học và xây dựng ba Problem Card về tổng hợp kiến thức sau buổi học, tổng hợp tài liệu ôn tập và theo dõi tiến độ nhóm.
 - Mô tả quy trình hiện tại, bước nghẽn giả thuyết và cách đo cho từng card. Ba đề xuất được ghi ở dòng 4–6 trong bảng pitch của nhóm.
-- Đặt ba câu hỏi phản biện về thời gian đối soát hóa đơn, cách tổ chức thông báo và tần suất kiểm tra rubric. Sau phản biện, cập nhật cách kiểm tra mức hiểu bài và chọn nguồn tài liệu trong hai Problem Card học tập.
+- Đặt câu hỏi phản biện về thời gian đối soát hóa đơn và tần suất kiểm tra rubric, được ghi ở dòng 2 và 8 trong bảng pitch. Sau phản biện, cập nhật cách kiểm tra mức hiểu bài và chọn nguồn tài liệu trong hai Problem Card học tập.
 
 **Bằng chứng**
 
