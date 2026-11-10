@@ -14,7 +14,7 @@
 
 Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng hợp nhiều thông tin** · **Pain từ người khác**.
 
-| # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu và mốc thời gian tham chiếu | Dẫn chứng công khai |
+| # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu và thời gian từ trải nghiệm của tôi | Dẫn chứng công khai |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Cần đọc, tổng hợp nhiều thông tin | Khi chuẩn bị ôn thi từ nhiều nguồn tài liệu, tôi muốn xác định nhanh các kiến thức trọng tâm và nội dung còn thiếu, để ôn tập hiệu quả hơn. | Bản thân tôi, sinh viên đang ôn thi từ nhiều nguồn. | 45–70 phút/phiên tổng hợp. Nội dung có thể nằm rải rác trong slide, bài tập, ghi chú và tài liệu tham khảo. | Một sinh viên điều dưỡng kể rằng có giáo trình, bài giảng, bộ câu hỏi và video nhưng khó chọn nguồn ưu tiên. [r/StudentNurse](https://www.reddit.com/r/StudentNurse/comments/pfwrxt/does_anyone_else_overwhelmed_with/) |
 | 2 | Lặp lại | Khi kết thúc mỗi buổi học, tôi muốn tổng hợp nội dung quan trọng từ bài giảng và slide, để dễ dàng xem lại kiến thức mà không phải đọc hoặc nghe lại toàn bộ. | Bản thân tôi, sinh viên tổng hợp ghi chú sau buổi học. | 25–40 phút/buổi để xem lại nội dung và viết ý chính. Có thể phải xem lại các phần chưa rõ. | Một người học giải phẫu và sinh lý kể rằng việc dừng và tua bài giảng để viết lại ghi chú mất hàng giờ. [r/GetStudying](https://www.reddit.com/r/GetStudying/comments/1dsxh0y/how_can_i_study_without_rewriting_notes/) |
@@ -26,7 +26,7 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 
 ## 3. Top 3 Problem Cards + quy trình nháp (CP2)
 
-Các sơ đồ mô tả quy trình hiện tại theo từng tình huống. Target là mục tiêu đề xuất. Card 1 và Card 3 tính cả quy trình, còn khoảng thời gian tương ứng trong CP1 chỉ nói đến khâu xem lại và tổng hợp hoặc khâu đối chiếu tiến độ.
+Các sơ đồ mô tả quy trình tôi đã thực hiện và thời gian ghi nhận từ trải nghiệm của tôi. Target là mục tiêu đề xuất. Card 1 và Card 3 tính cả quy trình, còn khoảng thời gian tương ứng trong CP1 chỉ nói đến khâu xem lại và tổng hợp hoặc khâu đối chiếu tiến độ.
 
 ### Bảng chọn top 3
 
@@ -36,7 +36,7 @@ Các sơ đồ mô tả quy trình hiện tại theo từng tình huống. Targe
 | 2 | Tổng hợp tài liệu ôn tập từ nhiều nguồn (CP1 #1) | Có thể giới hạn trong một học phần và đối chiếu danh sách ưu tiên với phạm vi ôn tập. | Phạm vi ôn tập có đủ rõ để kiểm tra chủ đề còn thiếu không? |
 | 3 | Theo dõi tiến độ và phối hợp nhóm (CP1 #4) | Có thể xem lại lịch sử giao việc để xác định thay đổi nào gây hỏi lại hoặc bỏ sót nhiệm vụ. | Mất thời gian vì phải đối chiếu nhiều nơi hay vì phải chờ người xác nhận? |
 
-### Problem Card #1
+### Problem Card #1 — Tổng hợp kiến thức sau buổi học
 
 | Trường | Nội dung |
 | --- | --- |
@@ -46,7 +46,7 @@ Các sơ đồ mô tả quy trình hiện tại theo từng tình huống. Targe
 | Quy trình hiện tại (3–7 bước) | Mở tài liệu và ghi chú → xem lại slide → đối chiếu nội dung đã học → viết lại ý chính → kiểm tra và lưu ghi chú. |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 4, tổng hợp và viết lại ý chính (15 phút). Có thể mất thời gian ở khâu chọn ý và diễn đạt lại. |
 | Impact (nếu không giải thì sao) | Có thể tốn thêm thời gian xem lại tài liệu khi ôn hoặc bỏ sót ý chính của buổi học. |
-| Success metric (baseline → target) | Baseline tham chiếu 45 phút/buổi → target đề xuất 25–30 phút/buổi. Bấm giờ từ khi mở tài liệu đến khi lưu ghi chú và so các buổi có lượng nội dung tương đương. Ghi riêng thời gian xem lại bài và viết lại ý chính. Đếm số ý chính bị bỏ sót theo mục tiêu bài học, với mục tiêu là 0. |
+| Success metric (baseline → target) | Baseline từ trải nghiệm thực tế 45 phút/buổi → target đề xuất 25–30 phút/buổi. Bấm giờ từ khi mở tài liệu đến khi lưu ghi chú và so các buổi có lượng nội dung tương đương. Ghi riêng thời gian xem lại bài và viết lại ý chính. Đếm số ý chính bị bỏ sót theo mục tiêu bài học, với mục tiêu là 0. Sau khi tổng hợp, thử tự giải thích hai ý chính mà không nhìn ghi chú, rồi đối chiếu lại với mục tiêu bài học. |
 | Phương án không dùng AI | Dùng mẫu ghi chú thống nhất theo mục tiêu bài học và đánh dấu nội dung quan trọng ngay trong buổi học. |
 | Giả thuyết về AI (nếu có) | Nếu bước viết lại vẫn tốn nhiều thời gian, AI có thể giúp sắp xếp ghi chú thành dàn ý. Sinh viên kiểm tra lại các ý chính với slide và ghi chú gốc. |
 | Cảm nhận nhanh | Ưu tiên mẫu ghi chú vì có thể chuẩn bị ngay trong buổi học. Cân nhắc hỗ trợ thêm nếu khâu viết lại vẫn là bước nghẽn. |
@@ -63,7 +63,7 @@ flowchart LR
     A --> B --> C --> D --> E
 ```
 
-### Problem Card #2
+### Problem Card #2 — Ôn tập từ nhiều nguồn tài liệu
 
 | Trường | Nội dung |
 | --- | --- |
@@ -73,8 +73,8 @@ flowchart LR
 | Quy trình hiện tại (3–7 bước) | Xem phạm vi → thu thập tài liệu → đối chiếu kiến thức giữa các nguồn → xác định phần chưa nắm vững → lập danh sách ưu tiên. |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3, đối chiếu kiến thức từ nhiều nguồn (20 phút). Các nguồn có thể trình bày cùng một chủ đề ở mức độ khác nhau. |
 | Impact (nếu không giải thì sao) | Có thể dành nhiều thời gian đọc nội dung trùng lặp hoặc bỏ sót chủ đề cần ôn trước kỳ thi. |
-| Success metric (baseline → target) | Baseline tham chiếu 65 phút/phiên → target đề xuất 35–40 phút/phiên. Bấm giờ từ lúc xem phạm vi đến khi có danh sách ưu tiên. Ghi số nguồn đã mở và số phút đối chiếu. Đối chiếu với phạm vi do giảng viên cung cấp và đếm số chủ đề bị bỏ sót, với mục tiêu là 0. |
-| Phương án không dùng AI | Dùng checklist theo từng chủ đề và bảng theo dõi tiến độ ôn tập, có nguồn tài liệu và phần cần luyện thêm. |
+| Success metric (baseline → target) | Baseline từ trải nghiệm thực tế 65 phút/phiên → target đề xuất 35–40 phút/phiên. Bấm giờ từ lúc xem phạm vi đến khi có danh sách ưu tiên. Ghi số nguồn đã mở và số phút đối chiếu. Đối chiếu với phạm vi do giảng viên cung cấp và đếm số chủ đề bị bỏ sót, với mục tiêu là 0. |
+| Phương án không dùng AI | Lập checklist theo phạm vi trong đề cương hoặc hướng dẫn chính thức của giảng viên. Với mỗi chủ đề, ghi nguồn tài liệu và phần cần luyện thêm. Đánh dấu riêng nguồn chưa đối chiếu. |
 | Giả thuyết về AI (nếu có) | Nếu việc ghép chủ đề với tài liệu vẫn tốn thời gian, AI có thể gợi ý mục liên quan trong tài liệu được cung cấp. Sinh viên đối chiếu từng gợi ý với phạm vi ôn tập. |
 | Cảm nhận nhanh | Ưu tiên checklist khi phạm vi thi rõ. Nếu phạm vi chưa rõ, cần xác nhận với giảng viên trước khi phân loại tài liệu. |
 
@@ -90,7 +90,7 @@ flowchart LR
     A --> B --> C --> D --> E
 ```
 
-### Problem Card #3
+### Problem Card #3 — Theo dõi tiến độ và phối hợp nhóm
 
 | Trường | Nội dung |
 | --- | --- |
@@ -100,8 +100,8 @@ flowchart LR
 | Quy trình hiện tại (3–7 bước) | Xem việc đã giao → đọc trao đổi và cập nhật → đối chiếu trạng thái và hạn → xác nhận điểm chưa rõ → cập nhật phần việc của mình. |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3, đối chiếu thông báo và thay đổi để xác định trạng thái và hạn mới nhất (12 phút). |
 | Impact (nếu không giải thì sao) | Có thể bỏ sót nhiệm vụ, làm theo yêu cầu cũ hoặc bàn giao muộn, ảnh hưởng đến phần việc của thành viên khác. |
-| Success metric (baseline → target) | Baseline tham chiếu 40 phút/lần cập nhật có xác nhận → target đề xuất 15–20 phút/lần. Bấm giờ từ lúc xem việc được giao đến khi cập nhật xong phần việc và ghi riêng thời gian chờ phản hồi. Đối chiếu với lịch sử giao việc để kiểm đủ nhiệm vụ, người phụ trách và hạn mới nhất, đồng thời ghi số việc bị bỏ sót. |
-| Phương án không dùng AI | Dùng bảng phân công chung ghi nhiệm vụ, người phụ trách, trạng thái và hạn. Thống nhất ai cập nhật mỗi khi có thay đổi. |
+| Success metric (baseline → target) | Baseline từ trải nghiệm thực tế 40 phút/lần cập nhật có xác nhận → target đề xuất 15–20 phút/lần. Bấm giờ từ lúc xem việc được giao đến khi cập nhật xong phần việc và ghi riêng thời gian chờ phản hồi. Đối chiếu với lịch sử giao việc để kiểm đủ nhiệm vụ, người phụ trách và hạn mới nhất, đồng thời ghi số việc bị bỏ sót. |
+| Phương án không dùng AI | Dùng bảng phân công chung ghi nhiệm vụ, người phụ trách, trạng thái và hạn. Thống nhất người thay đổi nhiệm vụ hoặc hạn nộp cập nhật ngay vào bảng và để thành viên phụ trách kiểm tra lại. |
 | Giả thuyết về AI (nếu có) | Nếu cập nhật vẫn nằm ở nhiều nơi, AI có thể gom những thay đổi đã được ghi lại để thành viên đối chiếu. Người phụ trách xác nhận nhiệm vụ và hạn trước khi cập nhật bảng. |
 | Cảm nhận nhanh | Ưu tiên bảng chung và quy ước cập nhật. Tách thời gian chờ phản hồi khi đánh giá mức giảm thời gian. |
 
@@ -132,7 +132,7 @@ Khi làm bài tập nhóm, nhiệm vụ, trạng thái và hạn nộp có thể
 | Điểm yếu AI chỉ ra | Đề xuất thay đổi | Đã chỉnh trong báo cáo | Cách kiểm chứng |
 | --- | --- | --- | --- |
 | #1 · Actor: chưa rõ trong buổi học nào sinh viên phải đối chiếu nhiều nguồn. | Giới hạn phạm vi ở một buổi học có slide và ghi chú. | Nêu bối cảnh và đầu ra là bản ghi chú để ôn. | Chọn một buổi học thực tế và ghi nguồn đã dùng. |
-| #1 · Bottleneck và chỉ số: khâu viết lại có thể ngắn hơn khâu đối chiếu. Ghi nhanh cũng có thể làm mất ý. | Đo riêng hai bước và kiểm số ý chính bị bỏ sót. | Đánh dấu bước 4 là giả thuyết, ghi mốc bấm giờ và tiêu chí chất lượng. | Ghi thời gian thật và đối chiếu ghi chú với mục tiêu buổi học. |
+| #1 · Bottleneck và chỉ số: khâu viết lại có thể ngắn hơn khâu đối chiếu. Ghi nhanh cũng có thể làm mất ý. | Đo riêng hai bước và kiểm số ý chính bị bỏ sót. | Đánh dấu bước 4 là giả thuyết, ghi mốc bấm giờ và tiêu chí chất lượng. | Ghi lại thời gian ở lần thực hiện tiếp theo và đối chiếu ghi chú với mục tiêu buổi học. |
 | #1 · No AI và khả năng triển khai: mẫu quá nhiều mục sẽ khó điền trong lớp. | Dùng mẫu ngắn theo mục tiêu bài học. | Thêm cách đánh dấu ý quan trọng ngay trong buổi học. | Xác nhận có mục tiêu bài học để đối chiếu và có thể đánh dấu trong lớp. |
 | #2 · Actor: phạm vi giữa các học phần và kỳ thi có thể khác nhau. | Chọn một học phần và một kỳ thi để phân tích. | Giới hạn actor và bối cảnh vào một phiên chuẩn bị ôn thi. | Xác nhận học phần và phạm vi do giảng viên cung cấp. |
 | #2 · Bottleneck và chỉ số: việc tự đánh giá có thể lâu hơn đối chiếu nguồn. Chỉ đo thời gian sẽ dễ bỏ qua chủ đề bị thiếu. | Tách thời gian hai bước và kiểm độ bao phủ của danh sách. | Thêm tiêu chí số chủ đề bị bỏ sót và mốc bắt đầu, kết thúc. | Đo riêng bước 3 và bước 4 trong phiên ôn thật. |
@@ -145,30 +145,31 @@ Khi làm bài tập nhóm, nhiệm vụ, trạng thái và hạn nộp có thể
 
 ## 4. Tôi đã tham gia phần nào (CP3 → CP7)
 
-Tôi tham gia phần đề xuất vấn đề và chuẩn bị ba Problem Card để nhóm xem xét.
-
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
 | Pitch Problem Card | Chuẩn bị ba đề xuất về tổng hợp kiến thức sau buổi học, ôn tập từ nhiều nguồn và theo dõi tiến độ nhóm. Card tôi chọn để trình bày là theo dõi tiến độ và phối hợp nhóm. | Ba đề xuất được ghi ở dòng 4–6 trong bảng pitch của [báo cáo nhóm, mục 2](../team/group_report.md#2-hội-tụ-nhóm-cp3). |
-| Phản biện bài của bạn khác | Không trực tiếp tham gia phần phản biện. | — |
-| Nhận phản biện | Bảng pitch chưa ghi câu hỏi dành cho các đề xuất của tôi. | — |
+| Phản biện bài của bạn khác | Tôi hỏi Duy An liệu OCR còn tiết kiệm thời gian nếu kế toán phải kiểm lại ảnh hóa đơn mờ, nhàu hoặc viết tay. Tôi hỏi Minh Quân liệu việc kiểm rubric mỗi tuần một lần có đủ thường xuyên để cần giải pháp riêng. | Hai câu hỏi này được ghi ở dòng 2 và 8 của bảng pitch. |
+| Nhận phản biện | Duy An hỏi mốc 15 phút đã được bấm giờ chưa và liệu tóm tắt thay có giúp người học hiểu bài. Minh Quân hỏi dựa vào đâu để biết tài liệu nào là chuẩn khi ôn từ nhiều nguồn. Tôi cũng tự phản biện Card #3 về việc nhóm cần công cụ mới hay chỉ cần quy ước cập nhật. | Card #1 bổ sung bước tự giải thích ý chính và giữ cách bấm giờ riêng. Card #2 xác định đề cương hoặc hướng dẫn của giảng viên là căn cứ. Card #3 làm rõ người cập nhật bảng mỗi khi nhiệm vụ hoặc hạn thay đổi. |
 | Gom cluster / cây OST | Không trực tiếp tham gia. | Đề xuất của tôi được xếp vào hai nhóm vấn đề là quản lý thông tin học tập và phối hợp nhóm. |
-| Chọn candidate problem | Phần tham gia của tôi dừng ở việc đưa ra đề xuất. | Nhóm chọn đề xuất số 7 của Nguyễn Minh Quân về tìm lại thông báo và tài liệu trước buổi học, họp hoặc kiểm tra. |
-| Kiểm chứng / research | Không trực tiếp tham gia phần kiểm chứng của nhóm. | Nhóm thu hẹp phạm vi sau khảo sát sang việc tìm lại thông tin đã chốt. |
-| Quy trình nhóm | Không trực tiếp tham gia. | — |
-| Problem Statement | Không trực tiếp tham gia soạn. | — |
-| Mức can thiệp AI | Không trực tiếp tham gia lựa chọn. | Báo cáo nhóm chọn Rule. |
-| Quyết định | Không trực tiếp tham gia chốt quyết định. | — |
+| Chọn candidate problem | Tôi đưa ra đề xuất và đặt câu hỏi phản biện. | Nhóm chọn đề xuất số 7 của Nguyễn Minh Quân về tìm lại thông báo và tài liệu trước buổi học, họp hoặc kiểm tra. |
+| Kiểm chứng / research | Bảng phân công ghi tôi hỗ trợ kiểm chứng và phụ trách research. Phần trực tiếp thực hiện của tôi được ghi nhận đến CP3. | Nhóm thu hẹp phạm vi sau khảo sát sang việc tìm lại thông tin đã chốt. |
+| Quy trình nhóm | Bảng phân công ghi tôi hỗ trợ CP5. | Báo cáo nhóm mô tả quy trình dùng mục lục chung và đối chiếu lại nguồn gốc. |
+| Problem Statement | Bảng phân công ghi tôi hỗ trợ phần v1. | Nhóm đặt mục tiêu ít nhất 70% lượt tìm dưới 2 phút và không dùng nhầm đường dẫn hoặc phiên bản. |
+| Mức can thiệp AI | Bảng phân công ghi tôi hỗ trợ CP6. | Báo cáo nhóm chọn Rule. |
+| Quyết định | Không trực tiếp tham gia chốt quyết định. | Nhóm chốt Go trong phạm vi nhỏ và thử phương án Rule trong hai tuần. |
 
 ---
 
 ## 5. Dùng AI
 
-| Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Điều chỉnh trong báo cáo |
+| Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
 | CP1 Scan | Gợi ý vấn đề, sắp xếp Job Story và phân loại theo lăng kính. | Giúp tách tình huống, nhu cầu và kết quả mong muốn của người học. | Một số ý ban đầu thiên về xử lý sự cố kỹ thuật, chưa sát bối cảnh học tập. Các gợi ý cũng chưa có dẫn chứng cho từng vấn đề. | Chuyển trọng tâm sang rà yêu cầu bài tập và tìm lại hướng dẫn. Thêm các bài đăng công khai vào cột dẫn chứng riêng. |
 | CP2 Problem Card | Sắp xếp ba card, mô tả quy trình và phản biện cách đo. | Giúp tách bước nghẽn, tác động và tiêu chí thành công. | Tổng số phút chưa cho biết bước nào gây chậm hoặc đầu ra có còn thiếu thông tin không. | Bổ sung cách đo từng bước. Ở Card #3, tách thời gian chờ khỏi thời gian tìm và đối chiếu nhiệm vụ, người phụ trách, hạn nộp với nguồn gốc. |
-| CP4–CP6 | Phần tham gia của tôi trong bài nhóm dừng ở khâu đề xuất. | — | — | — |
+| CP4 Research | Không có phần sử dụng cá nhân được ghi nhận. | — | — | — |
+| CP5 Quy trình | Không có phần sử dụng cá nhân được ghi nhận. | — | — | — |
+| CP5–6 Problem Statement | Không có phần sử dụng cá nhân được ghi nhận. | — | — | — |
+| CP6 Mức can thiệp / quyết định | Không có phần sử dụng cá nhân được ghi nhận. | — | — | — |
 
 ---
 
@@ -186,7 +187,7 @@ Trong Card #3, tôi đề xuất dùng bảng phân công chung. Nhìn lại đ�
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 
-Tôi tham gia phần chuẩn bị đề xuất, và bảng pitch chưa ghi câu phản biện cụ thể dành cho các card của tôi. Khi so sánh hai đề xuất, tôi thấy đề xuất số 7 dễ kiểm chứng hơn vì có thể quan sát một lần tìm thông báo. Với Card #3 của tôi, cần đo riêng thời gian tìm thông tin và thời gian chờ phản hồi mới biết bước nào thực sự gây chậm.
+Tôi vẫn giữ đề xuất tổng hợp kiến thức sau buổi học, nhưng đổi cách đánh giá sau câu hỏi của Duy An về việc tóm tắt nhanh có giúp người học hiểu bài hay không. Trước đó, Card #1 đo thời gian và kiểm tra ý chính có bị bỏ sót không. Tôi bổ sung một bước tự giải thích hai ý chính mà không nhìn ghi chú, sau đó đối chiếu lại với mục tiêu buổi học. Tôi cũng giữ việc bấm giờ riêng bước viết lại để kiểm tra mốc 15 phút.
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 
@@ -194,7 +195,7 @@ Tôi tham gia phần chuẩn bị đề xuất, và bảng pitch chưa ghi câu 
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 
-Tôi chỉ tham gia phần đề xuất. Trong Problem Statement của nhóm, điểm cần làm rõ là khi nào một lượt tìm được tính là thành công. Nếu người học thấy thông báo trong hai phút nhưng mở nhầm phiên bản, lượt tìm đó vẫn chưa đạt. Vì vậy, cần đo cả thời gian tìm và độ chính xác của kết quả.
+Tôi tham gia đề xuất và phản biện ở CP3. Trong Problem Statement của nhóm, điểm cần làm rõ là khi nào một lượt tìm được tính là thành công. Nếu người học thấy thông báo trong hai phút nhưng mở nhầm phiên bản, lượt tìm đó vẫn chưa đạt. Vì vậy, cần đo cả thời gian tìm và độ chính xác của kết quả.
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
