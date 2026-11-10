@@ -112,8 +112,11 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
-- `report/team/group_report.md` mục 2, 3.3, 5–8.
-- Commit cá nhân của bạn trên GitHub.
+- [Báo cáo nhóm, mục 2.1](report/team/group_report.md#21-pitch): các candidate của Quân ở dòng #7–#9; các câu hỏi phản biện Quân đặt cho candidate bảo hành, COD và ôn tập.
+- [Báo cáo nhóm, mục 2.2–2.4](report/team/group_report.md#22-cluster): phần cluster, Opportunity Solution Tree, bảng shortlist và lý do chọn candidate #7.
+- [Báo cáo nhóm, mục 3.3](report/team/group_report.md#33-research-giải-pháp-đã-có): Quân hỗ trợ kiểm tra/đối chiếu các link research; không nhận phần tổng hợp survey.
+- [Báo cáo nhóm, mục 5](report/team/group_report.md#5-problem-statement-v0-cp5): Problem Statement v0.
+- [Báo cáo nhóm, mục 6–7](report/team/group_report.md#6-mức-can-thiệp-ai-cp6): so sánh mức can thiệp, Problem Statement v1 và tiêu chí đánh giá.
 
 **Điều mình học được từ phần nhóm:**
 
